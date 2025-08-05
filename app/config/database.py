@@ -13,7 +13,7 @@ def db_connection():
     try:
         with engine.connect() as conn:
             conn.execute(text("SELECT 1"))
-            print("✅ Connected to the database successfully.")
+            print(" Connected to the database successfully.")
     except OperationalError as e:
-        print("❌ Failed to connect to the database.")
+        print(" Failed to connect to the database.")
         print(f"Error: {e}")
