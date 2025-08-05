@@ -5,7 +5,7 @@ from app.tables import Task
 from app.middleware.auth import get_db, verify_token
 
 
-# ✅ Create Task
+# Create Task
 def createTask(
     task_data: CreateTask,
     db: Session = Depends(get_db),
@@ -27,7 +27,7 @@ def createTask(
     return {"message": "Task created", "task": TaskOut.from_orm(task)}
 
 
-# 🔄 Update Task
+# Update Task
 def updateTask(
     task_id: int,
     task_data: CreateTask,
@@ -50,7 +50,7 @@ def updateTask(
     return {"message": "Task updated", "task": TaskOut.from_orm(task)}
 
 
-# ❌ Delete Task
+# Delete Task
 def deleteTask(
     task_id: int,
     db: Session = Depends(get_db),
@@ -69,7 +69,7 @@ def deleteTask(
     return {"message": "Task deleted"}
 
 
-# 🔍 Fetch Task by ID
+#  Fetch Task by ID
 def fetchTask(
     task_id: int,
     db: Session = Depends(get_db),
