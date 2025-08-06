@@ -6,7 +6,7 @@ services:
     env_file:
       - .env
     ports:
-      - "3001:5432"
+      - "3002:5432"
     volumes:
       - pgdata:/var/lib/postgresql/data
     healthcheck:
@@ -19,7 +19,7 @@ services:
     build: .
     container_name: fastapi-backend
     ports:
-      - "8001:8000"
+      - "8002:8000"
     env_file:
       - .env
     depends_on:
@@ -31,14 +31,15 @@ services:
     build:
       context: ./backupSystem
     container_name: backup
+    env_file:
+      - .env
     depends_on:
       - backend
     volumes:
-      - pgdata:/dbdata:ro 
-      - ./backupSystem/backups:/app/backups
+      - pgdata:/dbdata:ro  
+      - ./backupSystem/backups:/app/backups  # mounting system files to prisist data save in pc 
       - ./backupSystem/logs:/app/logs
       - ./backupSystem/reports:/app/reports
-      - /home/muteeba/.ssh/id_backup_ed25519:/root/.ssh/id_backup_ed25519:ro
     command: ["sh", "-c", "./search_backup.sh -d /dbdata -i -r && crond -f -l 8"]
     user: "0:0"
 
@@ -57,4 +58,4 @@ services:
     restart: unless-stopped
 
 volumes:
-  pgdata:
+  pgdata:  #db data storing
