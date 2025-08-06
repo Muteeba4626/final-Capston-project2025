@@ -19,6 +19,6 @@ async def verify_token(request: Request):
 
     try:
         payload = jwt.decode(auth_header, settings.JWT_SECRET, algorithms=["HS256"])
-        return payload  # 👈 Must include user_id in payload at token creation
+        return payload  
     except JWTError as e:
         raise HTTPException(status_code=status.HTTP_401_UNAUTHORIZED, detail=f"Invalid token: {str(e)}")
