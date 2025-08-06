@@ -34,10 +34,11 @@ services:
     depends_on:
       - backend
     volumes:
-      - pgdata:/dbdata:ro
+      - pgdata:/dbdata:ro 
       - ./backupSystem/backups:/app/backups
       - ./backupSystem/logs:/app/logs
       - ./backupSystem/reports:/app/reports
+      - /home/muteeba/.ssh/id_backup_ed25519:/root/.ssh/id_backup_ed25519:ro
     command: ["sh", "-c", "./search_backup.sh -d /dbdata -i -r && crond -f -l 8"]
     user: "0:0"
 

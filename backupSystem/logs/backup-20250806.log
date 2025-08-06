@@ -1,0 +1,99 @@
+--------------------------------------------------
+[20250806 06:47:00] 🗃️  Starting Backup
+--------------------------------------------------
+📂 Target Directory : /dbdata
+📦 Backup Destination: /app/backups/incremental-20250806/backup_dbdata_20250806.tar.gz
+
+[20250806 06:47:00] 🔄 Archiving /dbdata...
+[20250806 06:47:00] ✅ Backup completed.
+[20250806 06:47:00] ✅ Backup script completed successfully.
+--------------------------------------------------
+[20250806 06:48:00] 🗃️  Starting Backup
+--------------------------------------------------
+📂 Target Directory : /dbdata
+📦 Backup Destination: /app/backups/incremental-20250806/backup_dbdata_20250806.tar.gz
+
+[20250806 06:48:00] 🔄 Archiving /dbdata...
+[20250806 06:48:00] ✅ Backup completed.
+[20250806 06:48:00] ✅ Backup script completed successfully.
+--------------------------------------------------
+[20250806 06:49:00] 🗃️  Starting Backup
+--------------------------------------------------
+📂 Target Directory : /dbdata
+📦 Backup Destination: /app/backups/incremental-20250806/backup_dbdata_20250806.tar.gz
+
+[20250806 06:49:00] 🔄 Archiving /dbdata...
+[20250806 06:49:00] ✅ Backup completed.
+[20250806 06:49:00] ✅ Backup script completed successfully.
+--------------------------------------------------
+[20250806 06:50:00] 🗃️  Starting Backup
+--------------------------------------------------
+📂 Target Directory : /dbdata
+📦 Backup Destination: /app/backups/incremental-20250806/backup_dbdata_20250806.tar.gz
+
+[20250806 06:50:00] 🔄 Archiving /dbdata...
+[20250806 06:50:00] ✅ Backup completed.
+[20250806 06:50:00] ✅ Backup script completed successfully.
+--------------------------------------------------
+[20250806 06:51:00] 🗃️  Starting Backup
+--------------------------------------------------
+📂 Target Directory : /dbdata
+📦 Backup Destination: /app/backups/incremental-20250806/backup_dbdata_20250806.tar.gz
+
+[20250806 06:51:00] 🔄 Archiving /dbdata...
+[20250806 06:51:00] ✅ Backup completed.
+[20250806 06:51:00] ✅ Backup script completed successfully.
+--------------------------------------------------
+[20250806 06:52:00] 🗃️  Starting Backup
+--------------------------------------------------
+📂 Target Directory : /dbdata
+📦 Backup Destination: /app/backups/incremental-20250806/backup_dbdata_20250806.tar.gz
+
+[20250806 06:52:00] 🔄 Archiving /dbdata...
+[20250806 06:52:00] ✅ Backup completed.
+[20250806 06:52:00] ✅ Backup script completed successfully.
+--------------------------------------------------
+[20250806 06:53:31] Starting Backup
+--------------------------------------------------
+📂 Target Directory : /dbdata
+📦 Backup Destination: /app/backups/incremental-20250806/backup_dbdata_20250806.tar.gz
+
+[20250806 06:53:31]  Archiving /dbdata...
+[20250806 06:53:31] Backup completed.
+[20250806 06:53:31]  Backup script completed successfully.
+--------------------------------------------------
+[20250806 06:54:00] Starting Backup
+--------------------------------------------------
+📂 Target Directory : /dbdata
+📦 Backup Destination: /app/backups/incremental-20250806/backup_dbdata_20250806.tar.gz
+
+[20250806 06:54:00]  Archiving /dbdata...
+[20250806 06:54:00] Backup completed.
+[20250806 06:54:00]  Backup script completed successfully.
+--------------------------------------------------
+[20250806 06:55:00] Starting Backup
+--------------------------------------------------
+📂 Target Directory : /dbdata
+📦 Backup Destination: /app/backups/incremental-20250806/backup_dbdata_20250806.tar.gz
+
+[20250806 06:55:00]  Archiving /dbdata...
+[20250806 06:55:00] Backup completed.
+[20250806 06:55:00]  Backup script completed successfully.
+--------------------------------------------------
+[20250806 06:56:00] Starting Backup
+--------------------------------------------------
+📂 Target Directory : /dbdata
+📦 Backup Destination: /app/backups/incremental-20250806/backup_dbdata_20250806.tar.gz
+
+[20250806 06:56:00]  Archiving /dbdata...
+[20250806 06:56:00] Backup completed.
+[20250806 06:56:00]  Backup script completed successfully.
+--------------------------------------------------
+[20250806 06:57:00] Starting Backup
+--------------------------------------------------
+📂 Target Directory : /dbdata
+📦 Backup Destination: /app/backups/incremental-20250806/backup_dbdata_20250806.tar.gz
+
+[20250806 06:57:00]  Archiving /dbdata...
+[20250806 06:57:00] Backup completed.
+[20250806 06:57:00]  Backup script completed successfully.

@@ -1,11 +1,3 @@
 # Virtual environment
 venv/
 .venv/
-env/
-
-# Python cache (essential)
-__pycache__/
-*.pyc
-
-# Environment files (important for security)
-.env
