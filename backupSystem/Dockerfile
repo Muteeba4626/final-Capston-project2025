@@ -1,7 +1,7 @@
 FROM alpine:latest
 
 
-RUN apk add --no-cache bash rsync busybox-suid git openssh
+RUN apk add --no-cache bash rsync busybox-suid git openssh curl
 
 WORKDIR /app
 
