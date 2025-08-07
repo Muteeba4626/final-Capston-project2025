@@ -84,7 +84,7 @@ POST /auth/signup
 ✅ You will receive a **JWT token**. Use this token in the `Authorization` header as:
 
 ```
-Authorization: Bearer <your_token>
+Authorization: <your_token>
 ```
 
 ---
