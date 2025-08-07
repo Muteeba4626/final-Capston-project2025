@@ -3,25 +3,12 @@ version: "3.9"
 services:
   db:
     image: postgres:15
-    container_name: postgres-db
+    container_name: postgresDB
     restart: always
     env_file:
       - .env
     ports:
-      - "3002:5432"
-    volumes:
-      - pgdata:/var/lib/postgresql/data
-    healthcheck:
-      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER} -d ${POSTGRES_DB}"]
-      interval: 5s
-      timeout: 5sdb:
-    image: postgres:15
-    container_name: postgres-db
-    restart: always
-    env_file:
-      - .env
-    ports:
-      - "3002:5432"
+      - "3003:5432"
     volumes:
       - pgdata:/var/lib/postgresql/data
     healthcheck:
@@ -32,10 +19,11 @@ services:
 
   backend:
     build: .
-    container_name: fastapi-backend
+    container_name: FastApiBackend
     ports:
-      - "8002:8000"
+      - "8003:8000"
     env_file:
+    
       - .env
     depends_on:
       db:
@@ -45,14 +33,14 @@ services:
   backup:
     build:
       context: ./backupSystem
-    container_name: backup
+    container_name: Backupp
     env_file:
       - .env
     depends_on:
       - backend
     volumes:
-      - pgdata:/dbdata:ro  
-      - ./backupSystem/backups:/app/backups  # mounting system files to prisist data save in pc 
+      - pgdata:/dbdata:ro
+      - ./backupSystem/backups:/app/backups
       - ./backupSystem/logs:/app/logs
       - ./backupSystem/reports:/app/reports
     command: ["sh", "-c", "./search_backup.sh -d /dbdata -i -r && crond -f -l 8"]
@@ -60,7 +48,7 @@ services:
 
   nginx:
     image: nginx:alpine
-    container_name: backup-webserver
+    container_name: BackupWebserver
     ports:
       - "8080:80"
     volumes:
@@ -73,50 +61,4 @@ services:
     restart: unless-stopped
 
 volumes:
-  pgdata:  #db data storing
-      retries: 5
-
-  backend:
-    build: .
-    container_name: fastapi-backend
-    ports:
-      - "8002:8000"
-    env_file:
-      - .env
-    depends_on:
-      db:
-        condition: service_healthy
-    command: sh -c "alembic upgrade head && uvicorn app.main:app --host 0.0.0.0 --port 8000"
-
-  backup:
-    build:
-      context: ./backupSystem
-    container_name: backup
-    env_file:
-      - .env
-    depends_on:
-      - backend
-    volumes:
-      - pgdata:/dbdata:ro  
-      - ./backupSystem/backups:/app/backups  # mounting system files to prisist data save in pc 
-      - ./backupSystem/logs:/app/logs
-      - ./backupSystem/reports:/app/reports
-    command: ["sh", "-c", "./search_backup.sh -d /dbdata -i -r && crond -f -l 8"]
-    user: "0:0"
-
-  nginx:
-    image: nginx:alpine
-    container_name: backup-webserver
-    ports:
-      - "8080:80"
-    volumes:
-      - ./backupSystem/backups:/usr/share/nginx/html/backups:ro
-      - ./backupSystem/reports:/usr/share/nginx/html/reports:ro
-      - ./backupSystem/logs:/usr/share/nginx/html/logs:ro
-      - ./nginx/nginx.conf:/etc/nginx/nginx.conf:ro
-    depends_on:
-      - backup
-    restart: unless-stopped
-
-volumes:
-  pgdata:  #db data storing
+  pgdata:
