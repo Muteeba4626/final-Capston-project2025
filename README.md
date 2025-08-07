@@ -121,4 +121,20 @@ POST /task/createTask
 
 ---
 
+---
+
+## ⚙️ CI/CD Pipeline (Test Only)
+
+To test the CI pipeline:
+
+1. Checkout the `final` branch:
+```bash
+git checkout final
+```
+
+2. Push any commit to the `final` branch. This will automatically trigger **CI testing** via GitHub Actions using the `deploy.yaml` workflow.
+
+✅ The pipeline will **run all backend tests on CI** before moving to any deployment steps.
+
+
 > Made with 💡 using FastAPI, PostgreSQL, and Docker.
