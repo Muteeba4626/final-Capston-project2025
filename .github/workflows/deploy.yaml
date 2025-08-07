@@ -1,0 +1,90 @@
+name: CI/CD - FastAPI Build & Deploy
+
+on:
+  push:
+    branches:
+      - final
+
+jobs:
+  build:
+    name: 🛠️ Build & Test
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout code
+        uses: actions/checkout@v3
+
+      - name: 🐳 Install docker-compose
+        run: |
+          sudo curl -L "https://github.com/docker/compose/releases/latest/download/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+          sudo chmod +x /usr/local/bin/docker-compose
+          docker-compose version
+
+      - name: 🔐 Inject .env from GitHub Secret
+        run: echo "${{ secrets.ENV_FILE }}" > .env
+
+      - name: ✅ Validate secrets are present
+        run: |
+          MISSING=false
+
+          check() {
+            if [ -z "$1" ]; then
+              echo "❌ $2 is not set"
+              MISSING=true
+            else
+              echo "✅ $2 is set"
+            fi
+          }
+
+          check "${{ secrets.POSTGRES_USER }}" "POSTGRES_USER"
+          check "${{ secrets.POSTGRES_PASSWORD }}" "POSTGRES_PASSWORD"
+          check "${{ secrets.POSTGRES_DB }}" "POSTGRES_DB"
+          check "${{ secrets.POSTGRES_PORT }}" "POSTGRES_PORT"
+          check "${{ secrets.POSTGRES_HOST }}" "POSTGRES_HOST"
+          check "${{ secrets.JWT_SECRET }}" "JWT_SECRET"
+          check "${{ secrets.JWT_EXPIRATION_SECONDS }}" "JWT_EXPIRATION_SECONDS"
+          check "${{ secrets.USERNAME_GITHUB }}" "USERNAME_GITHUB"
+          check "${{ secrets.EMAIL_GIT }}" "EMAIL_GIT"
+          check "${{ secrets.TOKEN_GITHUB }}" "TOKEN_GITHUB"
+
+          if [ "$MISSING" = true ]; then
+            echo "⛔ Missing required secrets. Exiting..."
+            exit 1
+          fi
+
+      - name: 🐳 Docker Compose Build & Run
+        env:
+          POSTGRES_USER: ${{ secrets.POSTGRES_USER }}
+          POSTGRES_PASSWORD: ${{ secrets.POSTGRES_PASSWORD }}
+          POSTGRES_DB: ${{ secrets.POSTGRES_DB }}
+          POSTGRES_PORT: ${{ secrets.POSTGRES_PORT }}
+          POSTGRES_HOST: ${{ secrets.POSTGRES_HOST }}
+          JWT_SECRET: ${{ secrets.JWT_SECRET }}
+          JWT_EXPIRATION_SECONDS: ${{ secrets.JWT_EXPIRATION_SECONDS }}
+          USERNAME_GITHUB: ${{ secrets.USERNAME_GITHUB }}
+          EMAIL_GIT: ${{ secrets.EMAIL_GIT }}
+          TOKEN_GITHUB: ${{ secrets.TOKEN_GITHUB }}
+        run: docker-compose up --build -d
+
+      - name: 📦 Show logs for all containers
+        run: |
+          echo "📦 postgres-db logs:"
+          docker logs postgres-db || echo "⚠️ Failed to fetch postgres-db logs"
+          
+          echo "📦 backup logs:"
+          docker logs backup || echo "⚠️ Failed to fetch backup logs"
+
+      - name: ⏳ Wait for app to be ready
+        run: |
+          sleep 10
+          docker ps
+          curl --fail http://localhost:8000 || (echo "❌ App failed to start" && exit 1)
+
+  deploy:
+    name: 🚀 Deploy (Same Runner)
+    runs-on: ubuntu-latest
+    needs: build
+
+    steps:
+      - name: 🟢 Confirm deploy step
+        run: echo "✅ Build succeeded. App is up. Proceed with real deployment if needed."
