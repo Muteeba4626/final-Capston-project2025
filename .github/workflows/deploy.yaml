@@ -59,7 +59,7 @@ jobs:
         run: |
           sleep 10
           docker ps
-          curl --fail http://localhost:8000 || (echo "FastAPI failed to start" && exit 1)
+          curl --fail http://localhost:8002 || (echo "FastAPI failed to start" && exit 1)
 
   deploy:
     name: Deploy (Same Runner)
