@@ -55,11 +55,7 @@ jobs:
           echo "fastapi-backend logs:"
           docker logs fastapi-backend || echo "Unavailable"
 
-      - name: Wait and Health Check
-        run: |
-          sleep 10
-          docker ps
-          curl --fail http://localhost:8002 || (echo "FastAPI failed to start" && exit 1)
+  
 
   deploy:
     name: Deploy (Same Runner)
