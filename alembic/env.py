@@ -13,6 +13,12 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from app.tables import Base  # Import this after setting sys.path
 from app.config.settings import settings
 
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> main
 config = context.config
 config.set_main_option("sqlalchemy.url", settings.DATABASE_URL)
 
@@ -22,15 +28,21 @@ if config.config_file_name is not None:
     fileConfig(config.config_file_name)
 
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> main
 target_metadata = Base.metadata
 
 
 
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> main
 def run_migrations_offline() -> None:
     """Run migrations in 'offline' mode.
 
@@ -56,19 +68,18 @@ def run_migrations_offline() -> None:
 
 
 def run_migrations_online() -> None:
-    """Run migrations in 'online' mode.
-
-    In this scenario we need to create an Engine
-    and associate a connection with the context.
-
-    """
     connectable = engine_from_config(
         config.get_section(config.config_ini_section, {}),
         prefix="sqlalchemy.",
         poolclass=pool.NullPool,
     )
 
-    with connectable.connect() as connection:
+    with connectable.connect() a """Run migrations in 'online' mode.
+
+    In this scenario we need to create an Engine
+    and associate a connection with the context.
+
+    """s connection:
         context.configure(
             connection=connection, target_metadata=target_metadata
         )
@@ -81,8 +92,11 @@ if context.is_offline_mode():
     run_migrations_offline()
 else:
     run_migrations_online()
+<<<<<<< HEAD
 
 
 
 
     #comment
+=======
+>>>>>>> main

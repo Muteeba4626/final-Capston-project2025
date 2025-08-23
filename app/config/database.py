@@ -16,4 +16,8 @@ def db_connection():
             print(" Connected to the database successfully.")
     except OperationalError as e:
         print(" Failed to connect to the database.")
+<<<<<<< HEAD
         print(f"Error: {e}")
+=======
+        print(f"Error: {e}")
+>>>>>>> main

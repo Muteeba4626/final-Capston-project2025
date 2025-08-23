@@ -5,9 +5,17 @@ from app.config.settings import settings
 class Base(DeclarativeBase):
     pass
 
+<<<<<<< HEAD
 from .user import User
 from .task import Task
 
+=======
+
+from .user import User
+from .task import Task
+
+
+>>>>>>> main
 DATABASE_URL = settings.DATABASE_URL
 
 engine = create_engine(DATABASE_URL)
