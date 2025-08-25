@@ -1,0 +1,1 @@
+0 */12 * * * /app/search_backup.sh -d /dbdata -b -i -r >> /var/log/cron.log 2>&1

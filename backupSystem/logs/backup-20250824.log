@@ -1,0 +1,3851 @@
+--------------------------------------------------
+[20250824 10:56:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 10:56:00] Archiving /dbdata...
+[20250824 10:56:00] Backup completed.
+--------------------------------------------------
+[20250824 10:57:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 10:57:00] Archiving /dbdata...
+[20250824 10:57:00] Backup completed.
+--------------------------------------------------
+[20250824 10:58:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 10:58:00] Archiving /dbdata...
+[20250824 10:58:00] Backup completed.
+--------------------------------------------------
+[20250824 10:59:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 10:59:00] Archiving /dbdata...
+[20250824 10:59:00] Backup completed.
+--------------------------------------------------
+[20250824 11:00:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 11:00:00] Archiving /dbdata...
+[20250824 11:00:00] Backup completed.
+--------------------------------------------------
+[20250824 11:01:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 11:01:00] Archiving /dbdata...
+[20250824 11:01:00] Backup completed.
+--------------------------------------------------
+[20250824 11:02:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 11:02:00] Archiving /dbdata...
+[20250824 11:02:00] Backup completed.
+--------------------------------------------------
+[20250824 11:03:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 11:03:00] Archiving /dbdata...
+[20250824 11:03:00] Backup completed.
+--------------------------------------------------
+[20250824 11:04:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 11:04:00] Archiving /dbdata...
+[20250824 11:04:00] Backup completed.
+--------------------------------------------------
+[20250824 11:05:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 11:05:00] Archiving /dbdata...
+[20250824 11:05:00] Backup completed.
+--------------------------------------------------
+[20250824 11:06:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 11:06:00] Archiving /dbdata...
+[20250824 11:06:00] Backup completed.
+--------------------------------------------------
+[20250824 11:07:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 11:07:00] Archiving /dbdata...
+[20250824 11:07:00] Backup completed.
+--------------------------------------------------
+[20250824 11:08:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 11:08:00] Archiving /dbdata...
+[20250824 11:08:00] Backup completed.
+--------------------------------------------------
+[20250824 11:09:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 11:09:00] Archiving /dbdata...
+[20250824 11:09:00] Backup completed.
+--------------------------------------------------
+[20250824 11:10:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 11:10:00] Archiving /dbdata...
+[20250824 11:10:00] Backup completed.
+--------------------------------------------------
+[20250824 11:11:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 11:11:00] Archiving /dbdata...
+[20250824 11:11:00] Backup completed.
+--------------------------------------------------
+[20250824 11:12:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 11:12:00] Archiving /dbdata...
+[20250824 11:12:00] Backup completed.
+--------------------------------------------------
+[20250824 11:13:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 11:13:00] Archiving /dbdata...
+[20250824 11:13:00] Backup completed.
+--------------------------------------------------
+[20250824 11:14:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 11:14:00] Archiving /dbdata...
+[20250824 11:14:00] Backup completed.
+--------------------------------------------------
+[20250824 11:15:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 11:15:00] Archiving /dbdata...
+[20250824 11:15:00] Backup completed.
+--------------------------------------------------
+[20250824 11:16:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 11:16:00] Archiving /dbdata...
+[20250824 11:16:00] Backup completed.
+--------------------------------------------------
+[20250824 11:17:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 11:17:00] Archiving /dbdata...
+[20250824 11:17:00] Backup completed.
+--------------------------------------------------
+[20250824 11:18:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 11:18:00] Archiving /dbdata...
+[20250824 11:18:00] Backup completed.
+--------------------------------------------------
+[20250824 11:19:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 11:19:00] Archiving /dbdata...
+[20250824 11:19:00] Backup completed.
+--------------------------------------------------
+[20250824 14:15:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 14:15:00] Archiving /dbdata...
+[20250824 14:15:00] Backup completed.
+--------------------------------------------------
+[20250824 14:16:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 14:16:00] Archiving /dbdata...
+[20250824 14:16:00] Backup completed.
+--------------------------------------------------
+[20250824 14:17:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 14:17:00] Archiving /dbdata...
+[20250824 14:17:00] Backup completed.
+--------------------------------------------------
+[20250824 14:18:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 14:18:00] Archiving /dbdata...
+[20250824 14:18:00] Backup completed.
+--------------------------------------------------
+[20250824 14:19:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 14:19:00] Archiving /dbdata...
+[20250824 14:19:00] Backup completed.
+--------------------------------------------------
+[20250824 14:20:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 14:20:00] Archiving /dbdata...
+[20250824 14:20:00] Backup completed.
+--------------------------------------------------
+[20250824 14:21:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 14:21:00] Archiving /dbdata...
+[20250824 14:21:00] Backup completed.
+--------------------------------------------------
+[20250824 14:22:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 14:22:00] Archiving /dbdata...
+[20250824 14:22:00] Backup completed.
+--------------------------------------------------
+[20250824 14:23:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 14:23:00] Archiving /dbdata...
+[20250824 14:23:00] Backup completed.
+--------------------------------------------------
+[20250824 14:24:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 14:24:00] Archiving /dbdata...
+[20250824 14:24:00] Backup completed.
+--------------------------------------------------
+[20250824 14:25:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 14:25:00] Archiving /dbdata...
+[20250824 14:25:00] Backup completed.
+--------------------------------------------------
+[20250824 14:26:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 14:26:00] Archiving /dbdata...
+[20250824 14:26:00] Backup completed.
+--------------------------------------------------
+[20250824 14:27:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 14:27:00] Archiving /dbdata...
+[20250824 14:27:00] Backup completed.
+--------------------------------------------------
+[20250824 14:28:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 14:28:00] Archiving /dbdata...
+[20250824 14:28:00] Backup completed.
+--------------------------------------------------
+[20250824 14:29:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 14:29:00] Archiving /dbdata...
+[20250824 14:29:00] Backup completed.
+--------------------------------------------------
+[20250824 14:30:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 14:30:00] Archiving /dbdata...
+[20250824 14:30:00] Backup completed.
+--------------------------------------------------
+[20250824 14:31:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 14:31:00] Archiving /dbdata...
+[20250824 14:31:00] Backup completed.
+--------------------------------------------------
+[20250824 14:32:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 14:32:00] Archiving /dbdata...
+[20250824 14:32:00] Backup completed.
+--------------------------------------------------
+[20250824 14:33:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 14:33:00] Archiving /dbdata...
+[20250824 14:33:00] Backup completed.
+--------------------------------------------------
+[20250824 14:34:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 14:34:00] Archiving /dbdata...
+[20250824 14:34:00] Backup completed.
+--------------------------------------------------
+[20250824 14:35:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 14:35:00] Archiving /dbdata...
+[20250824 14:35:00] Backup completed.
+--------------------------------------------------
+[20250824 14:36:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 14:36:00] Archiving /dbdata...
+[20250824 14:36:00] Backup completed.
+--------------------------------------------------
+[20250824 14:37:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 14:37:00] Archiving /dbdata...
+[20250824 14:37:00] Backup completed.
+--------------------------------------------------
+[20250824 14:38:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 14:38:00] Archiving /dbdata...
+[20250824 14:38:00] Backup completed.
+--------------------------------------------------
+[20250824 14:39:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 14:39:00] Archiving /dbdata...
+[20250824 14:39:00] Backup completed.
+--------------------------------------------------
+[20250824 14:40:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 14:40:00] Archiving /dbdata...
+[20250824 14:40:00] Backup completed.
+--------------------------------------------------
+[20250824 14:41:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 14:41:00] Archiving /dbdata...
+[20250824 14:41:00] Backup completed.
+--------------------------------------------------
+[20250824 14:42:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 14:42:00] Archiving /dbdata...
+[20250824 14:42:00] Backup completed.
+--------------------------------------------------
+[20250824 14:43:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 14:43:00] Archiving /dbdata...
+[20250824 14:43:00] Backup completed.
+--------------------------------------------------
+[20250824 14:44:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 14:44:00] Archiving /dbdata...
+[20250824 14:44:00] Backup completed.
+--------------------------------------------------
+[20250824 14:45:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 14:45:00] Archiving /dbdata...
+[20250824 14:45:00] Backup completed.
+--------------------------------------------------
+[20250824 14:46:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 14:46:00] Archiving /dbdata...
+[20250824 14:46:00] Backup completed.
+--------------------------------------------------
+[20250824 15:12:58] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 15:12:58] Archiving /dbdata...
+[20250824 15:12:58] Backup completed.
+--------------------------------------------------
+[20250824 15:14:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 15:14:00] Archiving /dbdata...
+[20250824 15:14:00] Backup completed.
+--------------------------------------------------
+[20250824 15:15:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 15:15:00] Archiving /dbdata...
+[20250824 15:15:00] Backup completed.
+--------------------------------------------------
+[20250824 15:16:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 15:16:00] Archiving /dbdata...
+[20250824 15:16:00] Backup completed.
+--------------------------------------------------
+[20250824 15:17:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 15:17:00] Archiving /dbdata...
+[20250824 15:17:00] Backup completed.
+--------------------------------------------------
+[20250824 15:17:50] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 15:17:50] Archiving /dbdata...
+[20250824 15:17:50] Backup completed.
+--------------------------------------------------
+[20250824 15:19:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 15:19:00] Archiving /dbdata...
+[20250824 15:19:00] Backup completed.
+--------------------------------------------------
+[20250824 15:20:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 15:20:00] Archiving /dbdata...
+[20250824 15:20:00] Backup completed.
+--------------------------------------------------
+[20250824 15:21:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 15:21:00] Archiving /dbdata...
+[20250824 15:21:00] Backup completed.
+--------------------------------------------------
+[20250824 15:22:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 15:22:00] Archiving /dbdata...
+[20250824 15:22:00] Backup completed.
+--------------------------------------------------
+[20250824 15:23:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 15:23:00] Archiving /dbdata...
+[20250824 15:23:00] Backup completed.
+--------------------------------------------------
+[20250824 15:24:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 15:24:00] Archiving /dbdata...
+[20250824 15:24:00] Backup completed.
+--------------------------------------------------
+[20250824 15:25:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 15:25:00] Archiving /dbdata...
+[20250824 15:25:00] Backup completed.
+--------------------------------------------------
+[20250824 15:26:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 15:26:00] Archiving /dbdata...
+[20250824 15:26:00] Backup completed.
+--------------------------------------------------
+[20250824 15:27:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 15:27:00] Archiving /dbdata...
+[20250824 15:27:00] Backup completed.
+--------------------------------------------------
+[20250824 15:28:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 15:28:00] Archiving /dbdata...
+[20250824 15:28:00] Backup completed.
+--------------------------------------------------
+[20250824 15:29:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 15:29:00] Archiving /dbdata...
+[20250824 15:29:00] Backup completed.
+--------------------------------------------------
+[20250824 15:30:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 15:30:00] Archiving /dbdata...
+[20250824 15:30:00] Backup completed.
+--------------------------------------------------
+[20250824 15:31:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 15:31:00] Archiving /dbdata...
+[20250824 15:31:00] Backup completed.
+--------------------------------------------------
+[20250824 15:32:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 15:32:00] Archiving /dbdata...
+[20250824 15:32:00] Backup completed.
+--------------------------------------------------
+[20250824 15:33:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 15:33:00] Archiving /dbdata...
+[20250824 15:33:00] Backup completed.
+--------------------------------------------------
+[20250824 15:34:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 15:34:00] Archiving /dbdata...
+[20250824 15:34:00] Backup completed.
+--------------------------------------------------
+[20250824 15:35:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 15:35:00] Archiving /dbdata...
+[20250824 15:35:00] Backup completed.
+--------------------------------------------------
+[20250824 15:36:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 15:36:00] Archiving /dbdata...
+[20250824 15:36:00] Backup completed.
+--------------------------------------------------
+[20250824 15:37:00] Starting Backup
+--------------------------------------------------
+Target Directory : /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+
+[20250824 15:37:00] Archiving /dbdata...
+[20250824 15:37:00] Backup completed.
+1756050208 | Backup process started at 20250824 15:43:28
+--------------------------------------------------
+[20250824 15:43:28] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756050208 | Checking GitHub repo capstone-backup
+1756050208 | Initializing git repo
+1756050208 | Using branch main
+1756051327 | Backup process started at 20250824 16:02:07
+--------------------------------------------------
+[20250824 16:02:07] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756051327 | Checking GitHub repo capstone-backup
+1756051327 | Git repo already initialized
+1756051327 | Using branch main
+1756051327 | Dumping fastapi DB
+1756051327 | DB dump complete
+1756051327 | Creating backup archive
+1756051327 | Archive created
+1756051327 | Generating backup report
+1756051327 | Changes detected, committing...
+1756051327 | Push failed, attempting pull and retry
+1756051327 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-02-07 -> backup-20250824-16-02-07
+1756051380 | Backup process started at 20250824 16:03:00
+--------------------------------------------------
+[20250824 16:03:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756051380 | Checking GitHub repo capstone-backup
+1756051380 | Git repo already initialized
+1756051380 | Using branch main
+1756051380 | Dumping fastapi DB
+1756051380 | DB dump complete
+1756051380 | Creating backup archive
+1756051380 | Archive created
+1756051380 | Generating backup report
+1756051380 | Changes detected, committing...
+1756051380 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-03-00 -> backup-20250824-16-03-00
+1756051440 | Backup process started at 20250824 16:04:00
+--------------------------------------------------
+[20250824 16:04:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756051440 | Checking GitHub repo capstone-backup
+1756051440 | Git repo already initialized
+1756051440 | Using branch main
+1756051440 | Dumping fastapi DB
+1756051440 | DB dump complete
+1756051440 | Creating backup archive
+1756051440 | Archive created
+1756051440 | Generating backup report
+1756051440 | Changes detected, committing...
+1756051440 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-04-00 -> backup-20250824-16-04-00
+1756051500 | Backup process started at 20250824 16:05:00
+--------------------------------------------------
+[20250824 16:05:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756051500 | Checking GitHub repo capstone-backup
+1756051500 | Git repo already initialized
+1756051500 | Using branch main
+1756051500 | Dumping fastapi DB
+1756051500 | DB dump complete
+1756051500 | Creating backup archive
+1756051500 | Archive created
+1756051500 | Generating backup report
+1756051500 | Changes detected, committing...
+1756051500 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-05-00 -> backup-20250824-16-05-00
+1756051560 | Backup process started at 20250824 16:06:00
+--------------------------------------------------
+[20250824 16:06:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756051560 | Checking GitHub repo capstone-backup
+1756051560 | Git repo already initialized
+1756051560 | Using branch main
+1756051560 | Dumping fastapi DB
+1756051560 | DB dump complete
+1756051560 | Creating backup archive
+1756051560 | Archive created
+1756051560 | Generating backup report
+1756051560 | Changes detected, committing...
+1756051560 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-06-00 -> backup-20250824-16-06-00
+1756051620 | Backup process started at 20250824 16:07:00
+--------------------------------------------------
+[20250824 16:07:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756051620 | Checking GitHub repo capstone-backup
+1756051620 | Git repo already initialized
+1756051620 | Using branch main
+1756051620 | Dumping fastapi DB
+1756051620 | DB dump complete
+1756051620 | Creating backup archive
+1756051620 | Archive created
+1756051620 | Generating backup report
+1756051620 | Changes detected, committing...
+1756051620 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-07-00 -> backup-20250824-16-07-00
+1756051680 | Backup process started at 20250824 16:08:00
+--------------------------------------------------
+[20250824 16:08:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756051680 | Checking GitHub repo capstone-backup
+1756051680 | Git repo already initialized
+1756051680 | Using branch main
+1756051680 | Dumping fastapi DB
+1756051680 | DB dump complete
+1756051680 | Creating backup archive
+1756051680 | Archive created
+1756051680 | Generating backup report
+1756051680 | Changes detected, committing...
+1756051680 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-08-00 -> backup-20250824-16-08-00
+1756051740 | Backup process started at 20250824 16:09:00
+--------------------------------------------------
+[20250824 16:09:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756051740 | Checking GitHub repo capstone-backup
+1756051740 | Git repo already initialized
+1756051740 | Using branch main
+1756051740 | Dumping fastapi DB
+1756051740 | DB dump complete
+1756051740 | Creating backup archive
+1756051740 | Archive created
+1756051740 | Generating backup report
+1756051740 | Changes detected, committing...
+1756051740 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-09-00 -> backup-20250824-16-09-00
+1756051800 | Backup process started at 20250824 16:10:00
+--------------------------------------------------
+[20250824 16:10:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756051800 | Checking GitHub repo capstone-backup
+1756051800 | Git repo already initialized
+1756051800 | Using branch main
+1756051800 | Dumping fastapi DB
+1756051800 | DB dump complete
+1756051800 | Creating backup archive
+1756051800 | Archive created
+1756051800 | Generating backup report
+1756051800 | Changes detected, committing...
+1756051800 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-10-00 -> backup-20250824-16-10-00
+1756051860 | Backup process started at 20250824 16:11:00
+--------------------------------------------------
+[20250824 16:11:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756051860 | Checking GitHub repo capstone-backup
+1756051860 | Git repo already initialized
+1756051860 | Using branch main
+1756051860 | Dumping fastapi DB
+1756051860 | DB dump complete
+1756051860 | Creating backup archive
+1756051860 | Archive created
+1756051860 | Generating backup report
+1756051860 | Changes detected, committing...
+1756051860 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-11-00 -> backup-20250824-16-11-00
+1756051920 | Backup process started at 20250824 16:12:00
+--------------------------------------------------
+[20250824 16:12:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756051920 | Checking GitHub repo capstone-backup
+1756051920 | Git repo already initialized
+1756051920 | Using branch main
+1756051920 | Dumping fastapi DB
+1756051920 | DB dump complete
+1756051920 | Creating backup archive
+1756051920 | Archive created
+1756051920 | Generating backup report
+1756051920 | Changes detected, committing...
+1756051920 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-12-00 -> backup-20250824-16-12-00
+1756051980 | Backup process started at 20250824 16:13:00
+--------------------------------------------------
+[20250824 16:13:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756051980 | Checking GitHub repo capstone-backup
+1756051980 | Git repo already initialized
+1756051980 | Using branch main
+1756051980 | Dumping fastapi DB
+1756051980 | DB dump complete
+1756051980 | Creating backup archive
+1756051980 | Archive created
+1756051980 | Generating backup report
+1756051980 | Changes detected, committing...
+1756051980 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-13-00 -> backup-20250824-16-13-00
+1756052040 | Backup process started at 20250824 16:14:00
+--------------------------------------------------
+[20250824 16:14:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756052040 | Checking GitHub repo capstone-backup
+1756052040 | Git repo already initialized
+1756052040 | Using branch main
+1756052040 | Dumping fastapi DB
+1756052040 | DB dump complete
+1756052040 | Creating backup archive
+1756052040 | Archive created
+1756052040 | Generating backup report
+1756052040 | Changes detected, committing...
+1756052040 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-14-00 -> backup-20250824-16-14-00
+1756052100 | Backup process started at 20250824 16:15:00
+--------------------------------------------------
+[20250824 16:15:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756052100 | Checking GitHub repo capstone-backup
+1756052100 | Git repo already initialized
+1756052100 | Using branch main
+1756052100 | Dumping fastapi DB
+1756052100 | DB dump complete
+1756052100 | Creating backup archive
+1756052100 | Archive created
+1756052100 | Generating backup report
+1756052100 | Changes detected, committing...
+1756052100 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-15-00 -> backup-20250824-16-15-00
+1756052160 | Backup process started at 20250824 16:16:00
+--------------------------------------------------
+[20250824 16:16:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756052160 | Checking GitHub repo capstone-backup
+1756052160 | Git repo already initialized
+1756052160 | Using branch main
+1756052160 | Dumping fastapi DB
+1756052160 | DB dump complete
+1756052160 | Creating backup archive
+1756052160 | Archive created
+1756052160 | Generating backup report
+1756052160 | Changes detected, committing...
+1756052160 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-16-00 -> backup-20250824-16-16-00
+1756052220 | Backup process started at 20250824 16:17:00
+--------------------------------------------------
+[20250824 16:17:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756052220 | Checking GitHub repo capstone-backup
+1756052220 | Git repo already initialized
+1756052220 | Using branch main
+1756052220 | Dumping fastapi DB
+1756052220 | DB dump complete
+1756052220 | Creating backup archive
+1756052220 | Archive created
+1756052220 | Generating backup report
+1756052220 | Changes detected, committing...
+1756052220 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-17-00 -> backup-20250824-16-17-00
+1756052280 | Backup process started at 20250824 16:18:00
+--------------------------------------------------
+[20250824 16:18:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756052280 | Checking GitHub repo capstone-backup
+1756052280 | Git repo already initialized
+1756052280 | Using branch main
+1756052280 | Dumping fastapi DB
+1756052280 | DB dump complete
+1756052280 | Creating backup archive
+1756052280 | Archive created
+1756052280 | Generating backup report
+1756052280 | Changes detected, committing...
+1756052280 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-18-00 -> backup-20250824-16-18-00
+1756052340 | Backup process started at 20250824 16:19:00
+--------------------------------------------------
+[20250824 16:19:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756052340 | Checking GitHub repo capstone-backup
+1756052340 | Git repo already initialized
+1756052340 | Using branch main
+1756052340 | Dumping fastapi DB
+1756052340 | DB dump complete
+1756052340 | Creating backup archive
+1756052340 | Archive created
+1756052340 | Generating backup report
+1756052340 | Changes detected, committing...
+1756052340 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-19-00 -> backup-20250824-16-19-00
+1756052400 | Backup process started at 20250824 16:20:00
+--------------------------------------------------
+[20250824 16:20:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756052400 | Checking GitHub repo capstone-backup
+1756052400 | Git repo already initialized
+1756052400 | Using branch main
+1756052400 | Dumping fastapi DB
+1756052400 | DB dump complete
+1756052400 | Creating backup archive
+1756052400 | Archive created
+1756052400 | Generating backup report
+1756052400 | Changes detected, committing...
+1756052400 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-20-00 -> backup-20250824-16-20-00
+1756052460 | Backup process started at 20250824 16:21:00
+--------------------------------------------------
+[20250824 16:21:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756052460 | Checking GitHub repo capstone-backup
+1756052460 | Git repo already initialized
+1756052460 | Using branch main
+1756052460 | Dumping fastapi DB
+1756052460 | DB dump complete
+1756052460 | Creating backup archive
+1756052460 | Archive created
+1756052460 | Generating backup report
+1756052460 | Changes detected, committing...
+1756052460 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-21-00 -> backup-20250824-16-21-00
+1756052520 | Backup process started at 20250824 16:22:00
+--------------------------------------------------
+[20250824 16:22:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756052520 | Checking GitHub repo capstone-backup
+1756052520 | Git repo already initialized
+1756052520 | Using branch main
+1756052520 | Dumping fastapi DB
+1756052520 | DB dump complete
+1756052520 | Creating backup archive
+1756052520 | Archive created
+1756052520 | Generating backup report
+1756052520 | Changes detected, committing...
+1756052520 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-22-00 -> backup-20250824-16-22-00
+1756052580 | Backup process started at 20250824 16:23:00
+--------------------------------------------------
+[20250824 16:23:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756052580 | Checking GitHub repo capstone-backup
+1756052580 | Git repo already initialized
+1756052580 | Using branch main
+1756052580 | Dumping fastapi DB
+1756052580 | DB dump complete
+1756052580 | Creating backup archive
+1756052580 | Archive created
+1756052580 | Generating backup report
+1756052580 | Changes detected, committing...
+1756052580 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-23-00 -> backup-20250824-16-23-00
+1756052640 | Backup process started at 20250824 16:24:00
+--------------------------------------------------
+[20250824 16:24:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756052640 | Checking GitHub repo capstone-backup
+1756052640 | Git repo already initialized
+1756052640 | Using branch main
+1756052640 | Dumping fastapi DB
+1756052640 | DB dump complete
+1756052640 | Creating backup archive
+1756052640 | Archive created
+1756052640 | Generating backup report
+1756052640 | Changes detected, committing...
+1756052640 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-24-00 -> backup-20250824-16-24-00
+1756052700 | Backup process started at 20250824 16:25:00
+--------------------------------------------------
+[20250824 16:25:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756052700 | Checking GitHub repo capstone-backup
+1756052700 | Git repo already initialized
+1756052700 | Using branch main
+1756052700 | Dumping fastapi DB
+1756052700 | DB dump complete
+1756052700 | Creating backup archive
+1756052700 | Archive created
+1756052700 | Generating backup report
+1756052700 | Changes detected, committing...
+1756052700 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-25-00 -> backup-20250824-16-25-00
+1756052760 | Backup process started at 20250824 16:26:00
+--------------------------------------------------
+[20250824 16:26:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756052760 | Checking GitHub repo capstone-backup
+1756052760 | Git repo already initialized
+1756052760 | Using branch main
+1756052760 | Dumping fastapi DB
+1756052760 | DB dump complete
+1756052760 | Creating backup archive
+1756052760 | Archive created
+1756052760 | Generating backup report
+1756052760 | Changes detected, committing...
+1756052760 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-26-00 -> backup-20250824-16-26-00
+1756052820 | Backup process started at 20250824 16:27:00
+--------------------------------------------------
+[20250824 16:27:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756052820 | Checking GitHub repo capstone-backup
+1756052820 | Git repo already initialized
+1756052820 | Using branch main
+1756052820 | Dumping fastapi DB
+1756052820 | DB dump complete
+1756052820 | Creating backup archive
+1756052820 | Archive created
+1756052820 | Generating backup report
+1756052820 | Changes detected, committing...
+1756052820 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-27-00 -> backup-20250824-16-27-00
+1756052880 | Backup process started at 20250824 16:28:00
+--------------------------------------------------
+[20250824 16:28:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756052880 | Checking GitHub repo capstone-backup
+1756052880 | Git repo already initialized
+1756052880 | Using branch main
+1756052880 | Dumping fastapi DB
+1756052880 | DB dump complete
+1756052880 | Creating backup archive
+1756052880 | Archive created
+1756052880 | Generating backup report
+1756052880 | Changes detected, committing...
+1756052880 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-28-00 -> backup-20250824-16-28-00
+1756052940 | Backup process started at 20250824 16:29:00
+--------------------------------------------------
+[20250824 16:29:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756052940 | Checking GitHub repo capstone-backup
+1756052940 | Git repo already initialized
+1756052940 | Using branch main
+1756052940 | Dumping fastapi DB
+1756052940 | DB dump complete
+1756052940 | Creating backup archive
+1756052940 | Archive created
+1756052940 | Generating backup report
+1756052940 | Changes detected, committing...
+1756052940 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-29-00 -> backup-20250824-16-29-00
+1756053000 | Backup process started at 20250824 16:30:00
+--------------------------------------------------
+[20250824 16:30:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756053000 | Checking GitHub repo capstone-backup
+1756053000 | Git repo already initialized
+1756053000 | Using branch main
+1756053000 | Dumping fastapi DB
+1756053000 | DB dump complete
+1756053000 | Creating backup archive
+1756053000 | Archive created
+1756053000 | Generating backup report
+1756053000 | Changes detected, committing...
+1756053000 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-30-00 -> backup-20250824-16-30-00
+1756053060 | Backup process started at 20250824 16:31:00
+--------------------------------------------------
+[20250824 16:31:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756053060 | Checking GitHub repo capstone-backup
+1756053060 | Git repo already initialized
+1756053060 | Using branch main
+1756053060 | Dumping fastapi DB
+1756053060 | DB dump complete
+1756053060 | Creating backup archive
+1756053060 | Archive created
+1756053060 | Generating backup report
+1756053060 | Changes detected, committing...
+1756053060 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-31-00 -> backup-20250824-16-31-00
+1756053120 | Backup process started at 20250824 16:32:00
+--------------------------------------------------
+[20250824 16:32:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756053120 | Checking GitHub repo capstone-backup
+1756053120 | Git repo already initialized
+1756053120 | Using branch main
+1756053120 | Dumping fastapi DB
+1756053120 | DB dump complete
+1756053120 | Creating backup archive
+1756053120 | Archive created
+1756053120 | Generating backup report
+1756053120 | Changes detected, committing...
+1756053120 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-32-00 -> backup-20250824-16-32-00
+1756053180 | Backup process started at 20250824 16:33:00
+--------------------------------------------------
+[20250824 16:33:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756053180 | Checking GitHub repo capstone-backup
+1756053180 | Git repo already initialized
+1756053180 | Using branch main
+1756053180 | Dumping fastapi DB
+1756053180 | DB dump complete
+1756053180 | Creating backup archive
+1756053180 | Archive created
+1756053180 | Generating backup report
+1756053180 | Changes detected, committing...
+1756053180 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-33-00 -> backup-20250824-16-33-00
+1756053240 | Backup process started at 20250824 16:34:00
+--------------------------------------------------
+[20250824 16:34:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756053240 | Checking GitHub repo capstone-backup
+1756053240 | Git repo already initialized
+1756053240 | Using branch main
+1756053240 | Dumping fastapi DB
+1756053240 | DB dump complete
+1756053240 | Creating backup archive
+1756053240 | Archive created
+1756053240 | Generating backup report
+1756053240 | Changes detected, committing...
+1756053240 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-34-00 -> backup-20250824-16-34-00
+1756053300 | Backup process started at 20250824 16:35:00
+--------------------------------------------------
+[20250824 16:35:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756053300 | Checking GitHub repo capstone-backup
+1756053300 | Git repo already initialized
+1756053300 | Using branch main
+1756053300 | Dumping fastapi DB
+1756053300 | DB dump complete
+1756053300 | Creating backup archive
+1756053300 | Archive created
+1756053300 | Generating backup report
+1756053300 | Changes detected, committing...
+1756053300 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-35-00 -> backup-20250824-16-35-00
+1756053360 | Backup process started at 20250824 16:36:00
+--------------------------------------------------
+[20250824 16:36:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756053360 | Checking GitHub repo capstone-backup
+1756053360 | Git repo already initialized
+1756053360 | Using branch main
+1756053360 | Dumping fastapi DB
+1756053360 | DB dump complete
+1756053360 | Creating backup archive
+1756053360 | Archive created
+1756053360 | Generating backup report
+1756053360 | Changes detected, committing...
+1756053360 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-36-00 -> backup-20250824-16-36-00
+1756053420 | Backup process started at 20250824 16:37:00
+--------------------------------------------------
+[20250824 16:37:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756053420 | Checking GitHub repo capstone-backup
+1756053420 | Git repo already initialized
+1756053420 | Using branch main
+1756053420 | Dumping fastapi DB
+1756053420 | DB dump complete
+1756053420 | Creating backup archive
+1756053420 | Archive created
+1756053420 | Generating backup report
+1756053420 | Changes detected, committing...
+1756053420 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-37-00 -> backup-20250824-16-37-00
+1756053480 | Backup process started at 20250824 16:38:00
+--------------------------------------------------
+[20250824 16:38:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756053480 | Checking GitHub repo capstone-backup
+1756053480 | Git repo already initialized
+1756053480 | Using branch main
+1756053480 | Dumping fastapi DB
+1756053480 | DB dump complete
+1756053480 | Creating backup archive
+1756053480 | Archive created
+1756053480 | Generating backup report
+1756053480 | Changes detected, committing...
+1756053480 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-38-00 -> backup-20250824-16-38-00
+1756053540 | Backup process started at 20250824 16:39:00
+--------------------------------------------------
+[20250824 16:39:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756053540 | Checking GitHub repo capstone-backup
+1756053540 | Git repo already initialized
+1756053540 | Using branch main
+1756053540 | Dumping fastapi DB
+1756053540 | DB dump complete
+1756053540 | Creating backup archive
+1756053540 | Archive created
+1756053540 | Generating backup report
+1756053540 | Changes detected, committing...
+1756053540 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-39-00 -> backup-20250824-16-39-00
+1756053600 | Backup process started at 20250824 16:40:00
+--------------------------------------------------
+[20250824 16:40:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756053600 | Checking GitHub repo capstone-backup
+1756053600 | Git repo already initialized
+1756053600 | Using branch main
+1756053600 | Dumping fastapi DB
+1756053600 | DB dump complete
+1756053600 | Creating backup archive
+1756053600 | Archive created
+1756053600 | Generating backup report
+1756053600 | Changes detected, committing...
+1756053600 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-40-00 -> backup-20250824-16-40-00
+1756053660 | Backup process started at 20250824 16:41:00
+--------------------------------------------------
+[20250824 16:41:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756053660 | Checking GitHub repo capstone-backup
+1756053660 | Git repo already initialized
+1756053660 | Using branch main
+1756053660 | Dumping fastapi DB
+1756053660 | DB dump complete
+1756053660 | Creating backup archive
+1756053660 | Archive created
+1756053660 | Generating backup report
+1756053660 | Changes detected, committing...
+1756053660 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-41-00 -> backup-20250824-16-41-00
+1756053720 | Backup process started at 20250824 16:42:00
+--------------------------------------------------
+[20250824 16:42:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756053720 | Checking GitHub repo capstone-backup
+1756053720 | Git repo already initialized
+1756053720 | Using branch main
+1756053720 | Dumping fastapi DB
+1756053720 | DB dump complete
+1756053720 | Creating backup archive
+1756053720 | Archive created
+1756053720 | Generating backup report
+1756053720 | Changes detected, committing...
+1756053720 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-42-00 -> backup-20250824-16-42-00
+1756053780 | Backup process started at 20250824 16:43:00
+--------------------------------------------------
+[20250824 16:43:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756053780 | Checking GitHub repo capstone-backup
+1756053780 | Git repo already initialized
+1756053780 | Using branch main
+1756053780 | Dumping fastapi DB
+1756053780 | DB dump complete
+1756053780 | Creating backup archive
+1756053780 | Archive created
+1756053780 | Generating backup report
+1756053780 | Changes detected, committing...
+1756053780 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-43-00 -> backup-20250824-16-43-00
+1756053840 | Backup process started at 20250824 16:44:00
+--------------------------------------------------
+[20250824 16:44:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756053840 | Checking GitHub repo capstone-backup
+1756053840 | Git repo already initialized
+1756053840 | Using branch main
+1756053840 | Dumping fastapi DB
+1756053840 | DB dump complete
+1756053840 | Creating backup archive
+1756053840 | Archive created
+1756053840 | Generating backup report
+1756053840 | Changes detected, committing...
+1756053840 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-44-00 -> backup-20250824-16-44-00
+1756053900 | Backup process started at 20250824 16:45:00
+--------------------------------------------------
+[20250824 16:45:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756053900 | Checking GitHub repo capstone-backup
+1756053900 | Git repo already initialized
+1756053900 | Using branch main
+1756053900 | Dumping fastapi DB
+1756053900 | DB dump complete
+1756053900 | Creating backup archive
+1756053900 | Archive created
+1756053900 | Generating backup report
+1756053900 | Changes detected, committing...
+1756053900 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-45-00 -> backup-20250824-16-45-00
+1756053960 | Backup process started at 20250824 16:46:00
+--------------------------------------------------
+[20250824 16:46:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756053960 | Checking GitHub repo capstone-backup
+1756053960 | Git repo already initialized
+1756053960 | Using branch main
+1756053960 | Dumping fastapi DB
+1756053960 | DB dump complete
+1756053960 | Creating backup archive
+1756053960 | Archive created
+1756053960 | Generating backup report
+1756053960 | Changes detected, committing...
+1756053960 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-46-00 -> backup-20250824-16-46-00
+1756054020 | Backup process started at 20250824 16:47:00
+--------------------------------------------------
+[20250824 16:47:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756054020 | Checking GitHub repo capstone-backup
+1756054020 | Git repo already initialized
+1756054020 | Using branch main
+1756054020 | Dumping fastapi DB
+1756054020 | DB dump complete
+1756054020 | Creating backup archive
+1756054020 | Archive created
+1756054020 | Generating backup report
+1756054020 | Changes detected, committing...
+1756054020 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-47-00 -> backup-20250824-16-47-00
+1756054080 | Backup process started at 20250824 16:48:00
+--------------------------------------------------
+[20250824 16:48:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756054080 | Checking GitHub repo capstone-backup
+1756054080 | Git repo already initialized
+1756054080 | Using branch main
+1756054080 | Dumping fastapi DB
+1756054080 | DB dump complete
+1756054080 | Creating backup archive
+1756054080 | Archive created
+1756054080 | Generating backup report
+1756054080 | Changes detected, committing...
+1756054080 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-48-00 -> backup-20250824-16-48-00
+1756054140 | Backup process started at 20250824 16:49:00
+--------------------------------------------------
+[20250824 16:49:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756054140 | Checking GitHub repo capstone-backup
+1756054140 | Git repo already initialized
+1756054140 | Using branch main
+1756054140 | Dumping fastapi DB
+1756054140 | DB dump complete
+1756054140 | Creating backup archive
+1756054140 | Archive created
+1756054140 | Generating backup report
+1756054140 | Changes detected, committing...
+1756054140 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-49-00 -> backup-20250824-16-49-00
+1756054200 | Backup process started at 20250824 16:50:00
+--------------------------------------------------
+[20250824 16:50:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756054200 | Checking GitHub repo capstone-backup
+1756054200 | Git repo already initialized
+1756054200 | Using branch main
+1756054200 | Dumping fastapi DB
+1756054200 | DB dump complete
+1756054200 | Creating backup archive
+1756054200 | Archive created
+1756054200 | Generating backup report
+1756054200 | Changes detected, committing...
+1756054200 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-50-00 -> backup-20250824-16-50-00
+1756054260 | Backup process started at 20250824 16:51:00
+--------------------------------------------------
+[20250824 16:51:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756054260 | Checking GitHub repo capstone-backup
+1756054260 | Git repo already initialized
+1756054260 | Using branch main
+1756054260 | Dumping fastapi DB
+1756054260 | DB dump complete
+1756054260 | Creating backup archive
+1756054260 | Archive created
+1756054260 | Generating backup report
+1756054260 | Changes detected, committing...
+1756054260 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-51-00 -> backup-20250824-16-51-00
+1756054320 | Backup process started at 20250824 16:52:00
+--------------------------------------------------
+[20250824 16:52:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756054320 | Checking GitHub repo capstone-backup
+1756054320 | Git repo already initialized
+1756054320 | Using branch main
+1756054320 | Dumping fastapi DB
+1756054320 | DB dump complete
+1756054320 | Creating backup archive
+1756054320 | Archive created
+1756054320 | Generating backup report
+1756054320 | Changes detected, committing...
+1756054320 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-52-00 -> backup-20250824-16-52-00
+1756054380 | Backup process started at 20250824 16:53:00
+--------------------------------------------------
+[20250824 16:53:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756054380 | Checking GitHub repo capstone-backup
+1756054380 | Git repo already initialized
+1756054380 | Using branch main
+1756054380 | Dumping fastapi DB
+1756054380 | DB dump complete
+1756054380 | Creating backup archive
+1756054380 | Archive created
+1756054380 | Generating backup report
+1756054380 | Changes detected, committing...
+1756054380 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-53-00 -> backup-20250824-16-53-00
+1756054440 | Backup process started at 20250824 16:54:00
+--------------------------------------------------
+[20250824 16:54:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756054440 | Checking GitHub repo capstone-backup
+1756054440 | Git repo already initialized
+1756054440 | Using branch main
+1756054440 | Dumping fastapi DB
+1756054440 | DB dump complete
+1756054440 | Creating backup archive
+1756054440 | Archive created
+1756054440 | Generating backup report
+1756054440 | Changes detected, committing...
+1756054440 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-54-00 -> backup-20250824-16-54-00
+1756054500 | Backup process started at 20250824 16:55:00
+--------------------------------------------------
+[20250824 16:55:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756054500 | Checking GitHub repo capstone-backup
+1756054500 | Git repo already initialized
+1756054500 | Using branch main
+1756054500 | Dumping fastapi DB
+1756054500 | DB dump complete
+1756054500 | Creating backup archive
+1756054500 | Archive created
+1756054500 | Generating backup report
+1756054500 | Changes detected, committing...
+1756054500 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-55-00 -> backup-20250824-16-55-00
+1756054560 | Backup process started at 20250824 16:56:00
+--------------------------------------------------
+[20250824 16:56:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756054560 | Checking GitHub repo capstone-backup
+1756054560 | Git repo already initialized
+1756054560 | Using branch main
+1756054560 | Dumping fastapi DB
+1756054560 | DB dump complete
+1756054560 | Creating backup archive
+1756054560 | Archive created
+1756054560 | Generating backup report
+1756054560 | Changes detected, committing...
+1756054560 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-56-00 -> backup-20250824-16-56-00
+1756054620 | Backup process started at 20250824 16:57:00
+--------------------------------------------------
+[20250824 16:57:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756054620 | Checking GitHub repo capstone-backup
+1756054620 | Git repo already initialized
+1756054620 | Using branch main
+1756054620 | Dumping fastapi DB
+1756054620 | DB dump complete
+1756054620 | Creating backup archive
+1756054620 | Archive created
+1756054620 | Generating backup report
+1756054620 | Changes detected, committing...
+1756054620 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-57-00 -> backup-20250824-16-57-00
+1756054680 | Backup process started at 20250824 16:58:00
+--------------------------------------------------
+[20250824 16:58:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756054680 | Checking GitHub repo capstone-backup
+1756054680 | Git repo already initialized
+1756054680 | Using branch main
+1756054680 | Dumping fastapi DB
+1756054680 | DB dump complete
+1756054680 | Creating backup archive
+1756054680 | Archive created
+1756054680 | Generating backup report
+1756054680 | Changes detected, committing...
+1756054680 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-58-00 -> backup-20250824-16-58-00
+1756054740 | Backup process started at 20250824 16:59:00
+--------------------------------------------------
+[20250824 16:59:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756054740 | Checking GitHub repo capstone-backup
+1756054740 | Git repo already initialized
+1756054740 | Using branch main
+1756054740 | Dumping fastapi DB
+1756054740 | DB dump complete
+1756054740 | Creating backup archive
+1756054740 | Archive created
+1756054740 | Generating backup report
+1756054740 | Changes detected, committing...
+1756054740 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-16-59-00 -> backup-20250824-16-59-00
+1756054800 | Backup process started at 20250824 17:00:00
+--------------------------------------------------
+[20250824 17:00:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756054800 | Checking GitHub repo capstone-backup
+1756054800 | Git repo already initialized
+1756054800 | Using branch main
+1756054800 | Dumping fastapi DB
+1756054800 | DB dump complete
+1756054800 | Creating backup archive
+1756054800 | Archive created
+1756054800 | Generating backup report
+1756054800 | Changes detected, committing...
+1756054800 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-00-00 -> backup-20250824-17-00-00
+1756054860 | Backup process started at 20250824 17:01:00
+--------------------------------------------------
+[20250824 17:01:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756054860 | Checking GitHub repo capstone-backup
+1756054860 | Git repo already initialized
+1756054860 | Using branch main
+1756054860 | Dumping fastapi DB
+1756054860 | DB dump complete
+1756054860 | Creating backup archive
+1756054860 | Archive created
+1756054860 | Generating backup report
+1756054860 | Changes detected, committing...
+1756054860 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-01-00 -> backup-20250824-17-01-00
+1756054920 | Backup process started at 20250824 17:02:00
+--------------------------------------------------
+[20250824 17:02:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756054920 | Checking GitHub repo capstone-backup
+1756054920 | Git repo already initialized
+1756054920 | Using branch main
+1756054920 | Dumping fastapi DB
+1756054920 | DB dump complete
+1756054920 | Creating backup archive
+1756054920 | Archive created
+1756054920 | Generating backup report
+1756054920 | Changes detected, committing...
+1756054920 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-02-00 -> backup-20250824-17-02-00
+1756054980 | Backup process started at 20250824 17:03:00
+--------------------------------------------------
+[20250824 17:03:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756054980 | Checking GitHub repo capstone-backup
+1756054980 | Git repo already initialized
+1756054980 | Using branch main
+1756054980 | Dumping fastapi DB
+1756054980 | DB dump complete
+1756054980 | Creating backup archive
+1756054980 | Archive created
+1756054980 | Generating backup report
+1756054980 | Changes detected, committing...
+1756054980 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-03-00 -> backup-20250824-17-03-00
+1756055040 | Backup process started at 20250824 17:04:00
+--------------------------------------------------
+[20250824 17:04:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756055040 | Checking GitHub repo capstone-backup
+1756055040 | Git repo already initialized
+1756055040 | Using branch main
+1756055040 | Dumping fastapi DB
+1756055040 | DB dump complete
+1756055040 | Creating backup archive
+1756055040 | Archive created
+1756055040 | Generating backup report
+1756055040 | Changes detected, committing...
+1756055040 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-04-00 -> backup-20250824-17-04-00
+1756055100 | Backup process started at 20250824 17:05:00
+--------------------------------------------------
+[20250824 17:05:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756055100 | Checking GitHub repo capstone-backup
+1756055100 | Git repo already initialized
+1756055100 | Using branch main
+1756055100 | Dumping fastapi DB
+1756055100 | DB dump complete
+1756055100 | Creating backup archive
+1756055100 | Archive created
+1756055100 | Generating backup report
+1756055100 | Changes detected, committing...
+1756055100 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-05-00 -> backup-20250824-17-05-00
+1756055160 | Backup process started at 20250824 17:06:00
+--------------------------------------------------
+[20250824 17:06:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756055160 | Checking GitHub repo capstone-backup
+1756055160 | Git repo already initialized
+1756055160 | Using branch main
+1756055160 | Dumping fastapi DB
+1756055160 | DB dump complete
+1756055160 | Creating backup archive
+1756055160 | Archive created
+1756055160 | Generating backup report
+1756055160 | Changes detected, committing...
+1756055160 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-06-00 -> backup-20250824-17-06-00
+1756055220 | Backup process started at 20250824 17:07:00
+--------------------------------------------------
+[20250824 17:07:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756055220 | Checking GitHub repo capstone-backup
+1756055220 | Git repo already initialized
+1756055220 | Using branch main
+1756055220 | Dumping fastapi DB
+1756055220 | DB dump complete
+1756055220 | Creating backup archive
+1756055220 | Archive created
+1756055220 | Generating backup report
+1756055220 | Changes detected, committing...
+1756055220 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-07-00 -> backup-20250824-17-07-00
+1756055280 | Backup process started at 20250824 17:08:00
+--------------------------------------------------
+[20250824 17:08:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756055280 | Checking GitHub repo capstone-backup
+1756055280 | Git repo already initialized
+1756055280 | Using branch main
+1756055280 | Dumping fastapi DB
+1756055280 | DB dump complete
+1756055280 | Creating backup archive
+1756055280 | Archive created
+1756055280 | Generating backup report
+1756055280 | Changes detected, committing...
+1756055280 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-08-00 -> backup-20250824-17-08-00
+1756055340 | Backup process started at 20250824 17:09:00
+--------------------------------------------------
+[20250824 17:09:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756055340 | Checking GitHub repo capstone-backup
+1756055340 | Git repo already initialized
+1756055340 | Using branch main
+1756055340 | Dumping fastapi DB
+1756055340 | DB dump complete
+1756055340 | Creating backup archive
+1756055340 | Archive created
+1756055340 | Generating backup report
+1756055340 | Changes detected, committing...
+1756055340 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-09-00 -> backup-20250824-17-09-00
+1756055400 | Backup process started at 20250824 17:10:00
+--------------------------------------------------
+[20250824 17:10:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756055400 | Checking GitHub repo capstone-backup
+1756055400 | Git repo already initialized
+1756055400 | Using branch main
+1756055400 | Dumping fastapi DB
+1756055400 | DB dump complete
+1756055400 | Creating backup archive
+1756055400 | Archive created
+1756055400 | Generating backup report
+1756055400 | Changes detected, committing...
+1756055400 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-10-00 -> backup-20250824-17-10-00
+1756055460 | Backup process started at 20250824 17:11:00
+--------------------------------------------------
+[20250824 17:11:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756055460 | Checking GitHub repo capstone-backup
+1756055460 | Git repo already initialized
+1756055460 | Using branch main
+1756055460 | Dumping fastapi DB
+1756055460 | DB dump complete
+1756055460 | Creating backup archive
+1756055460 | Archive created
+1756055460 | Generating backup report
+1756055460 | Changes detected, committing...
+1756055460 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-11-00 -> backup-20250824-17-11-00
+1756055520 | Backup process started at 20250824 17:12:00
+--------------------------------------------------
+[20250824 17:12:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756055520 | Checking GitHub repo capstone-backup
+1756055520 | Git repo already initialized
+1756055520 | Using branch main
+1756055520 | Dumping fastapi DB
+1756055520 | DB dump complete
+1756055520 | Creating backup archive
+1756055520 | Archive created
+1756055520 | Generating backup report
+1756055520 | Changes detected, committing...
+1756055520 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-12-00 -> backup-20250824-17-12-00
+1756055580 | Backup process started at 20250824 17:13:00
+--------------------------------------------------
+[20250824 17:13:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756055580 | Checking GitHub repo capstone-backup
+1756055580 | Git repo already initialized
+1756055580 | Using branch main
+1756055580 | Dumping fastapi DB
+1756055580 | DB dump complete
+1756055580 | Creating backup archive
+1756055580 | Archive created
+1756055580 | Generating backup report
+1756055580 | Changes detected, committing...
+1756055580 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-13-00 -> backup-20250824-17-13-00
+1756055640 | Backup process started at 20250824 17:14:00
+--------------------------------------------------
+[20250824 17:14:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756055640 | Checking GitHub repo capstone-backup
+1756055640 | Git repo already initialized
+1756055640 | Using branch main
+1756055640 | Dumping fastapi DB
+1756055640 | DB dump complete
+1756055640 | Creating backup archive
+1756055640 | Archive created
+1756055640 | Generating backup report
+1756055640 | Changes detected, committing...
+1756055640 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-14-00 -> backup-20250824-17-14-00
+1756055700 | Backup process started at 20250824 17:15:00
+--------------------------------------------------
+[20250824 17:15:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756055700 | Checking GitHub repo capstone-backup
+1756055700 | Git repo already initialized
+1756055700 | Using branch main
+1756055700 | Dumping fastapi DB
+1756055700 | DB dump complete
+1756055700 | Creating backup archive
+1756055700 | Archive created
+1756055700 | Generating backup report
+1756055700 | Changes detected, committing...
+1756055700 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-15-00 -> backup-20250824-17-15-00
+1756055760 | Backup process started at 20250824 17:16:00
+--------------------------------------------------
+[20250824 17:16:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756055760 | Checking GitHub repo capstone-backup
+1756055760 | Git repo already initialized
+1756055760 | Using branch main
+1756055760 | Dumping fastapi DB
+1756055760 | DB dump complete
+1756055760 | Creating backup archive
+1756055760 | Archive created
+1756055760 | Generating backup report
+1756055760 | Changes detected, committing...
+1756055760 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-16-00 -> backup-20250824-17-16-00
+1756055820 | Backup process started at 20250824 17:17:00
+--------------------------------------------------
+[20250824 17:17:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756055820 | Checking GitHub repo capstone-backup
+1756055820 | Git repo already initialized
+1756055820 | Using branch main
+1756055820 | Dumping fastapi DB
+1756055820 | DB dump complete
+1756055820 | Creating backup archive
+1756055820 | Archive created
+1756055820 | Generating backup report
+1756055820 | Changes detected, committing...
+1756055820 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-17-00 -> backup-20250824-17-17-00
+1756055881 | Backup process started at 20250824 17:18:00
+--------------------------------------------------
+[20250824 17:18:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756055881 | Checking GitHub repo capstone-backup
+1756055881 | Git repo already initialized
+1756055881 | Using branch main
+1756055881 | Dumping fastapi DB
+1756055881 | DB dump complete
+1756055881 | Creating backup archive
+1756055881 | Archive created
+1756055881 | Generating backup report
+1756055881 | Changes detected, committing...
+1756055881 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-18-00 -> backup-20250824-17-18-00
+1756055941 | Backup process started at 20250824 17:19:01
+--------------------------------------------------
+[20250824 17:19:01] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756055941 | Checking GitHub repo capstone-backup
+1756055941 | Git repo already initialized
+1756055941 | Using branch main
+1756055941 | Dumping fastapi DB
+1756055941 | DB dump complete
+1756055941 | Creating backup archive
+1756055941 | Archive created
+1756055941 | Generating backup report
+1756055941 | Changes detected, committing...
+1756055941 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-19-01 -> backup-20250824-17-19-01
+1756056000 | Backup process started at 20250824 17:20:00
+--------------------------------------------------
+[20250824 17:20:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756056000 | Checking GitHub repo capstone-backup
+1756056000 | Git repo already initialized
+1756056000 | Using branch main
+1756056000 | Dumping fastapi DB
+1756056000 | DB dump complete
+1756056000 | Creating backup archive
+1756056000 | Archive created
+1756056000 | Generating backup report
+1756056000 | Changes detected, committing...
+1756056000 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-20-00 -> backup-20250824-17-20-00
+1756056061 | Backup process started at 20250824 17:21:01
+--------------------------------------------------
+[20250824 17:21:01] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756056061 | Checking GitHub repo capstone-backup
+1756056061 | Git repo already initialized
+1756056061 | Using branch main
+1756056061 | Dumping fastapi DB
+1756056061 | DB dump complete
+1756056061 | Creating backup archive
+1756056061 | Archive created
+1756056061 | Generating backup report
+1756056061 | Changes detected, committing...
+1756056061 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-21-01 -> backup-20250824-17-21-01
+1756056121 | Backup process started at 20250824 17:22:01
+--------------------------------------------------
+[20250824 17:22:01] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756056121 | Checking GitHub repo capstone-backup
+1756056121 | Git repo already initialized
+1756056121 | Using branch main
+1756056121 | Dumping fastapi DB
+1756056121 | DB dump complete
+1756056121 | Creating backup archive
+1756056121 | Archive created
+1756056121 | Generating backup report
+1756056121 | Changes detected, committing...
+1756056121 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-22-01 -> backup-20250824-17-22-01
+1756056181 | Backup process started at 20250824 17:23:01
+--------------------------------------------------
+[20250824 17:23:01] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756056181 | Checking GitHub repo capstone-backup
+1756056181 | Git repo already initialized
+1756056181 | Using branch main
+1756056181 | Dumping fastapi DB
+1756056181 | DB dump complete
+1756056181 | Creating backup archive
+1756056181 | Archive created
+1756056181 | Generating backup report
+1756056181 | Changes detected, committing...
+1756056181 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-23-01 -> backup-20250824-17-23-01
+1756056241 | Backup process started at 20250824 17:24:01
+--------------------------------------------------
+[20250824 17:24:01] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756056241 | Checking GitHub repo capstone-backup
+1756056241 | Git repo already initialized
+1756056241 | Using branch main
+1756056241 | Dumping fastapi DB
+1756056241 | DB dump complete
+1756056241 | Creating backup archive
+1756056241 | Archive created
+1756056241 | Generating backup report
+1756056241 | Changes detected, committing...
+1756056241 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-24-01 -> backup-20250824-17-24-01
+1756056301 | Backup process started at 20250824 17:25:01
+--------------------------------------------------
+[20250824 17:25:01] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756056301 | Checking GitHub repo capstone-backup
+1756056301 | Git repo already initialized
+1756056301 | Using branch main
+1756056301 | Dumping fastapi DB
+1756056301 | DB dump complete
+1756056301 | Creating backup archive
+1756056301 | Archive created
+1756056301 | Generating backup report
+1756056301 | Changes detected, committing...
+1756056301 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-25-01 -> backup-20250824-17-25-01
+1756056360 | Backup process started at 20250824 17:26:00
+--------------------------------------------------
+[20250824 17:26:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756056360 | Checking GitHub repo capstone-backup
+1756056360 | Git repo already initialized
+1756056360 | Using branch main
+1756056360 | Dumping fastapi DB
+1756056360 | DB dump complete
+1756056360 | Creating backup archive
+1756056360 | Archive created
+1756056360 | Generating backup report
+1756056360 | Changes detected, committing...
+1756056360 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-26-00 -> backup-20250824-17-26-00
+1756056420 | Backup process started at 20250824 17:27:00
+--------------------------------------------------
+[20250824 17:27:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756056420 | Checking GitHub repo capstone-backup
+1756056420 | Git repo already initialized
+1756056420 | Using branch main
+1756056420 | Dumping fastapi DB
+1756056420 | DB dump complete
+1756056420 | Creating backup archive
+1756056420 | Archive created
+1756056420 | Generating backup report
+1756056420 | Changes detected, committing...
+1756056420 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-27-00 -> backup-20250824-17-27-00
+1756056480 | Backup process started at 20250824 17:28:00
+--------------------------------------------------
+[20250824 17:28:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756056480 | Checking GitHub repo capstone-backup
+1756056480 | Git repo already initialized
+1756056480 | Using branch main
+1756056480 | Dumping fastapi DB
+1756056480 | DB dump complete
+1756056480 | Creating backup archive
+1756056480 | Archive created
+1756056480 | Generating backup report
+1756056480 | Changes detected, committing...
+1756056480 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-28-00 -> backup-20250824-17-28-00
+1756056540 | Backup process started at 20250824 17:29:00
+--------------------------------------------------
+[20250824 17:29:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756056540 | Checking GitHub repo capstone-backup
+1756056540 | Git repo already initialized
+1756056540 | Using branch main
+1756056540 | Dumping fastapi DB
+1756056540 | DB dump complete
+1756056540 | Creating backup archive
+1756056540 | Archive created
+1756056540 | Generating backup report
+1756056540 | Changes detected, committing...
+1756056540 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-29-00 -> backup-20250824-17-29-00
+1756056600 | Backup process started at 20250824 17:30:00
+--------------------------------------------------
+[20250824 17:30:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756056600 | Checking GitHub repo capstone-backup
+1756056600 | Git repo already initialized
+1756056600 | Using branch main
+1756056600 | Dumping fastapi DB
+1756056600 | DB dump complete
+1756056600 | Creating backup archive
+1756056600 | Archive created
+1756056600 | Generating backup report
+1756056600 | Changes detected, committing...
+1756056600 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-30-00 -> backup-20250824-17-30-00
+1756056660 | Backup process started at 20250824 17:31:00
+--------------------------------------------------
+[20250824 17:31:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756056660 | Checking GitHub repo capstone-backup
+1756056660 | Git repo already initialized
+1756056660 | Using branch main
+1756056660 | Dumping fastapi DB
+1756056660 | DB dump complete
+1756056660 | Creating backup archive
+1756056660 | Archive created
+1756056660 | Generating backup report
+1756056660 | Changes detected, committing...
+1756056660 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-31-00 -> backup-20250824-17-31-00
+1756056720 | Backup process started at 20250824 17:32:00
+--------------------------------------------------
+[20250824 17:32:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756056720 | Checking GitHub repo capstone-backup
+1756056720 | Git repo already initialized
+1756056720 | Using branch main
+1756056720 | Dumping fastapi DB
+1756056720 | DB dump complete
+1756056720 | Creating backup archive
+1756056720 | Archive created
+1756056720 | Generating backup report
+1756056720 | Changes detected, committing...
+1756056720 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-32-00 -> backup-20250824-17-32-00
+1756056780 | Backup process started at 20250824 17:33:00
+--------------------------------------------------
+[20250824 17:33:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756056780 | Checking GitHub repo capstone-backup
+1756056780 | Git repo already initialized
+1756056780 | Using branch main
+1756056780 | Dumping fastapi DB
+1756056780 | DB dump complete
+1756056780 | Creating backup archive
+1756056780 | Archive created
+1756056780 | Generating backup report
+1756056780 | Changes detected, committing...
+1756056780 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-33-00 -> backup-20250824-17-33-00
+1756056840 | Backup process started at 20250824 17:34:00
+--------------------------------------------------
+[20250824 17:34:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756056840 | Checking GitHub repo capstone-backup
+1756056840 | Git repo already initialized
+1756056840 | Using branch main
+1756056840 | Dumping fastapi DB
+1756056840 | DB dump complete
+1756056840 | Creating backup archive
+1756056840 | Archive created
+1756056840 | Generating backup report
+1756056840 | Changes detected, committing...
+1756056840 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-34-00 -> backup-20250824-17-34-00
+1756056900 | Backup process started at 20250824 17:35:00
+--------------------------------------------------
+[20250824 17:35:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756056900 | Checking GitHub repo capstone-backup
+1756056900 | Git repo already initialized
+1756056900 | Using branch main
+1756056900 | Dumping fastapi DB
+1756056900 | DB dump complete
+1756056900 | Creating backup archive
+1756056900 | Archive created
+1756056900 | Generating backup report
+1756056900 | Changes detected, committing...
+1756056900 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-35-00 -> backup-20250824-17-35-00
+1756056960 | Backup process started at 20250824 17:36:00
+--------------------------------------------------
+[20250824 17:36:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756056960 | Checking GitHub repo capstone-backup
+1756056960 | Git repo already initialized
+1756056960 | Using branch main
+1756056960 | Dumping fastapi DB
+1756056960 | DB dump complete
+1756056960 | Creating backup archive
+1756056960 | Archive created
+1756056960 | Generating backup report
+1756056960 | Changes detected, committing...
+1756056960 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-36-00 -> backup-20250824-17-36-00
+1756057020 | Backup process started at 20250824 17:37:00
+--------------------------------------------------
+[20250824 17:37:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756057020 | Checking GitHub repo capstone-backup
+1756057020 | Git repo already initialized
+1756057020 | Using branch main
+1756057020 | Dumping fastapi DB
+1756057020 | DB dump complete
+1756057020 | Creating backup archive
+1756057020 | Archive created
+1756057020 | Generating backup report
+1756057020 | Changes detected, committing...
+1756057020 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-37-00 -> backup-20250824-17-37-00
+1756057080 | Backup process started at 20250824 17:38:00
+--------------------------------------------------
+[20250824 17:38:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756057080 | Checking GitHub repo capstone-backup
+1756057080 | Git repo already initialized
+1756057080 | Using branch main
+1756057080 | Dumping fastapi DB
+1756057080 | DB dump complete
+1756057080 | Creating backup archive
+1756057080 | Archive created
+1756057080 | Generating backup report
+1756057080 | Changes detected, committing...
+1756057080 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-38-00 -> backup-20250824-17-38-00
+1756057140 | Backup process started at 20250824 17:39:00
+--------------------------------------------------
+[20250824 17:39:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756057140 | Checking GitHub repo capstone-backup
+1756057140 | Git repo already initialized
+1756057140 | Using branch main
+1756057140 | Dumping fastapi DB
+1756057140 | DB dump complete
+1756057140 | Creating backup archive
+1756057140 | Archive created
+1756057140 | Generating backup report
+1756057140 | Changes detected, committing...
+1756057140 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-39-00 -> backup-20250824-17-39-00
+1756057200 | Backup process started at 20250824 17:40:00
+--------------------------------------------------
+[20250824 17:40:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756057200 | Checking GitHub repo capstone-backup
+1756057200 | Git repo already initialized
+1756057200 | Using branch main
+1756057200 | Dumping fastapi DB
+1756057200 | DB dump complete
+1756057200 | Creating backup archive
+1756057200 | Archive created
+1756057200 | Generating backup report
+1756057200 | Changes detected, committing...
+1756057200 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-40-00 -> backup-20250824-17-40-00
+1756057260 | Backup process started at 20250824 17:41:00
+--------------------------------------------------
+[20250824 17:41:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756057260 | Checking GitHub repo capstone-backup
+1756057260 | Git repo already initialized
+1756057260 | Using branch main
+1756057260 | Dumping fastapi DB
+1756057260 | DB dump complete
+1756057260 | Creating backup archive
+1756057260 | Archive created
+1756057260 | Generating backup report
+1756057260 | Changes detected, committing...
+1756057260 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-41-00 -> backup-20250824-17-41-00
+1756057320 | Backup process started at 20250824 17:42:00
+--------------------------------------------------
+[20250824 17:42:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756057320 | Checking GitHub repo capstone-backup
+1756057320 | Git repo already initialized
+1756057320 | Using branch main
+1756057320 | Dumping fastapi DB
+1756057320 | DB dump complete
+1756057320 | Creating backup archive
+1756057320 | Archive created
+1756057320 | Generating backup report
+1756057320 | Changes detected, committing...
+1756057320 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-42-00 -> backup-20250824-17-42-00
+1756057380 | Backup process started at 20250824 17:43:00
+--------------------------------------------------
+[20250824 17:43:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756057380 | Checking GitHub repo capstone-backup
+1756057380 | Git repo already initialized
+1756057380 | Using branch main
+1756057380 | Dumping fastapi DB
+1756057380 | DB dump complete
+1756057380 | Creating backup archive
+1756057380 | Archive created
+1756057380 | Generating backup report
+1756057380 | Changes detected, committing...
+1756057380 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-43-00 -> backup-20250824-17-43-00
+1756057440 | Backup process started at 20250824 17:44:00
+--------------------------------------------------
+[20250824 17:44:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756057440 | Checking GitHub repo capstone-backup
+1756057440 | Git repo already initialized
+1756057440 | Using branch main
+1756057440 | Dumping fastapi DB
+1756057440 | DB dump complete
+1756057440 | Creating backup archive
+1756057440 | Archive created
+1756057440 | Generating backup report
+1756057440 | Changes detected, committing...
+1756057440 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-44-00 -> backup-20250824-17-44-00
+1756057500 | Backup process started at 20250824 17:45:00
+--------------------------------------------------
+[20250824 17:45:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756057500 | Checking GitHub repo capstone-backup
+1756057500 | Git repo already initialized
+1756057500 | Using branch main
+1756057500 | Dumping fastapi DB
+1756057500 | DB dump complete
+1756057500 | Creating backup archive
+1756057500 | Archive created
+1756057500 | Generating backup report
+1756057500 | Changes detected, committing...
+1756057500 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-45-00 -> backup-20250824-17-45-00
+1756057560 | Backup process started at 20250824 17:46:00
+--------------------------------------------------
+[20250824 17:46:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756057560 | Checking GitHub repo capstone-backup
+1756057560 | Git repo already initialized
+1756057560 | Using branch main
+1756057560 | Dumping fastapi DB
+1756057560 | DB dump complete
+1756057560 | Creating backup archive
+1756057560 | Archive created
+1756057560 | Generating backup report
+1756057560 | Changes detected, committing...
+1756057560 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-46-00 -> backup-20250824-17-46-00
+1756057620 | Backup process started at 20250824 17:47:00
+--------------------------------------------------
+[20250824 17:47:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756057620 | Checking GitHub repo capstone-backup
+1756057620 | Git repo already initialized
+1756057620 | Using branch main
+1756057620 | Dumping fastapi DB
+1756057620 | DB dump complete
+1756057620 | Creating backup archive
+1756057620 | Archive created
+1756057620 | Generating backup report
+1756057620 | Changes detected, committing...
+1756057620 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-47-00 -> backup-20250824-17-47-00
+1756057680 | Backup process started at 20250824 17:48:00
+--------------------------------------------------
+[20250824 17:48:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756057680 | Checking GitHub repo capstone-backup
+1756057680 | Git repo already initialized
+1756057680 | Using branch main
+1756057680 | Dumping fastapi DB
+1756057680 | DB dump complete
+1756057680 | Creating backup archive
+1756057680 | Archive created
+1756057680 | Generating backup report
+1756057680 | Changes detected, committing...
+1756057680 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-48-00 -> backup-20250824-17-48-00
+1756057740 | Backup process started at 20250824 17:49:00
+--------------------------------------------------
+[20250824 17:49:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756057740 | Checking GitHub repo capstone-backup
+1756057740 | Git repo already initialized
+1756057740 | Using branch main
+1756057740 | Dumping fastapi DB
+1756057740 | DB dump complete
+1756057740 | Creating backup archive
+1756057740 | Archive created
+1756057740 | Generating backup report
+1756057740 | Changes detected, committing...
+1756057740 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-49-00 -> backup-20250824-17-49-00
+1756057800 | Backup process started at 20250824 17:50:00
+--------------------------------------------------
+[20250824 17:50:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756057800 | Checking GitHub repo capstone-backup
+1756057800 | Git repo already initialized
+1756057800 | Using branch main
+1756057800 | Dumping fastapi DB
+1756057800 | DB dump complete
+1756057800 | Creating backup archive
+1756057800 | Archive created
+1756057800 | Generating backup report
+1756057800 | Changes detected, committing...
+1756057800 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-50-00 -> backup-20250824-17-50-00
+1756057860 | Backup process started at 20250824 17:51:00
+--------------------------------------------------
+[20250824 17:51:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756057860 | Checking GitHub repo capstone-backup
+1756057860 | Git repo already initialized
+1756057860 | Using branch main
+1756057860 | Dumping fastapi DB
+1756057860 | DB dump complete
+1756057860 | Creating backup archive
+1756057860 | Archive created
+1756057860 | Generating backup report
+1756057860 | Changes detected, committing...
+1756057860 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-51-00 -> backup-20250824-17-51-00
+1756057920 | Backup process started at 20250824 17:52:00
+--------------------------------------------------
+[20250824 17:52:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756057920 | Checking GitHub repo capstone-backup
+1756057920 | Git repo already initialized
+1756057920 | Using branch main
+1756057920 | Dumping fastapi DB
+1756057920 | DB dump complete
+1756057920 | Creating backup archive
+1756057920 | Archive created
+1756057920 | Generating backup report
+1756057920 | Changes detected, committing...
+1756057920 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-52-00 -> backup-20250824-17-52-00
+1756057980 | Backup process started at 20250824 17:53:00
+--------------------------------------------------
+[20250824 17:53:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756057980 | Checking GitHub repo capstone-backup
+1756057980 | Git repo already initialized
+1756057980 | Using branch main
+1756057980 | Dumping fastapi DB
+1756057980 | DB dump complete
+1756057980 | Creating backup archive
+1756057980 | Archive created
+1756057980 | Generating backup report
+1756057980 | Changes detected, committing...
+1756057980 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-53-00 -> backup-20250824-17-53-00
+1756058040 | Backup process started at 20250824 17:54:00
+--------------------------------------------------
+[20250824 17:54:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756058040 | Checking GitHub repo capstone-backup
+1756058040 | Git repo already initialized
+1756058040 | Using branch main
+1756058040 | Dumping fastapi DB
+1756058040 | DB dump complete
+1756058040 | Creating backup archive
+1756058040 | Archive created
+1756058040 | Generating backup report
+1756058040 | Changes detected, committing...
+1756058040 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-54-00 -> backup-20250824-17-54-00
+1756058100 | Backup process started at 20250824 17:55:00
+--------------------------------------------------
+[20250824 17:55:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756058100 | Checking GitHub repo capstone-backup
+1756058100 | Git repo already initialized
+1756058100 | Using branch main
+1756058100 | Dumping fastapi DB
+1756058100 | DB dump complete
+1756058100 | Creating backup archive
+1756058100 | Archive created
+1756058100 | Generating backup report
+1756058100 | Changes detected, committing...
+1756058100 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-55-00 -> backup-20250824-17-55-00
+1756058160 | Backup process started at 20250824 17:56:00
+--------------------------------------------------
+[20250824 17:56:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756058160 | Checking GitHub repo capstone-backup
+1756058160 | Git repo already initialized
+1756058160 | Using branch main
+1756058160 | Dumping fastapi DB
+1756058160 | DB dump complete
+1756058160 | Creating backup archive
+1756058160 | Archive created
+1756058160 | Generating backup report
+1756058160 | Changes detected, committing...
+1756058160 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-56-00 -> backup-20250824-17-56-00
+1756058220 | Backup process started at 20250824 17:57:00
+--------------------------------------------------
+[20250824 17:57:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756058220 | Checking GitHub repo capstone-backup
+1756058220 | Git repo already initialized
+1756058220 | Using branch main
+1756058220 | Dumping fastapi DB
+1756058220 | DB dump complete
+1756058220 | Creating backup archive
+1756058220 | Archive created
+1756058220 | Generating backup report
+1756058220 | Changes detected, committing...
+1756058220 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-57-00 -> backup-20250824-17-57-00
+1756058280 | Backup process started at 20250824 17:58:00
+--------------------------------------------------
+[20250824 17:58:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756058280 | Checking GitHub repo capstone-backup
+1756058280 | Git repo already initialized
+1756058280 | Using branch main
+1756058280 | Dumping fastapi DB
+1756058280 | DB dump complete
+1756058280 | Creating backup archive
+1756058280 | Archive created
+1756058280 | Generating backup report
+1756058280 | Changes detected, committing...
+1756058280 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-58-00 -> backup-20250824-17-58-00
+1756058340 | Backup process started at 20250824 17:59:00
+--------------------------------------------------
+[20250824 17:59:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756058340 | Checking GitHub repo capstone-backup
+1756058340 | Git repo already initialized
+1756058340 | Using branch main
+1756058340 | Dumping fastapi DB
+1756058340 | DB dump complete
+1756058340 | Creating backup archive
+1756058340 | Archive created
+1756058340 | Generating backup report
+1756058340 | Changes detected, committing...
+1756058340 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-17-59-00 -> backup-20250824-17-59-00
+1756058400 | Backup process started at 20250824 18:00:00
+--------------------------------------------------
+[20250824 18:00:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756058400 | Checking GitHub repo capstone-backup
+1756058400 | Git repo already initialized
+1756058400 | Using branch main
+1756058400 | Dumping fastapi DB
+1756058400 | DB dump complete
+1756058400 | Creating backup archive
+1756058400 | Archive created
+1756058400 | Generating backup report
+1756058400 | Changes detected, committing...
+1756058400 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-18-00-00 -> backup-20250824-18-00-00
+1756058460 | Backup process started at 20250824 18:01:00
+--------------------------------------------------
+[20250824 18:01:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756058460 | Checking GitHub repo capstone-backup
+1756058460 | Git repo already initialized
+1756058460 | Using branch main
+1756058460 | Dumping fastapi DB
+1756058460 | DB dump complete
+1756058460 | Creating backup archive
+1756058460 | Archive created
+1756058460 | Generating backup report
+1756058460 | Changes detected, committing...
+1756058460 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-18-01-00 -> backup-20250824-18-01-00
+1756058520 | Backup process started at 20250824 18:02:00
+--------------------------------------------------
+[20250824 18:02:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756058520 | Checking GitHub repo capstone-backup
+1756058520 | Git repo already initialized
+1756058520 | Using branch main
+1756058520 | Dumping fastapi DB
+1756058520 | DB dump complete
+1756058520 | Creating backup archive
+1756058520 | Archive created
+1756058520 | Generating backup report
+1756058520 | Changes detected, committing...
+1756058520 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-18-02-00 -> backup-20250824-18-02-00
+1756058580 | Backup process started at 20250824 18:03:00
+--------------------------------------------------
+[20250824 18:03:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756058580 | Checking GitHub repo capstone-backup
+1756058580 | Git repo already initialized
+1756058580 | Using branch main
+1756058580 | Dumping fastapi DB
+1756058580 | DB dump complete
+1756058580 | Creating backup archive
+1756058580 | Archive created
+1756058580 | Generating backup report
+1756058580 | Changes detected, committing...
+1756058580 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-18-03-00 -> backup-20250824-18-03-00
+1756058640 | Backup process started at 20250824 18:04:00
+--------------------------------------------------
+[20250824 18:04:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756058640 | Checking GitHub repo capstone-backup
+1756058640 | Git repo already initialized
+1756058640 | Using branch main
+1756058640 | Dumping fastapi DB
+1756058640 | DB dump complete
+1756058640 | Creating backup archive
+1756058640 | Archive created
+1756058640 | Generating backup report
+1756058640 | Changes detected, committing...
+1756058640 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-18-04-00 -> backup-20250824-18-04-00
+1756058700 | Backup process started at 20250824 18:05:00
+--------------------------------------------------
+[20250824 18:05:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756058700 | Checking GitHub repo capstone-backup
+1756058700 | Git repo already initialized
+1756058700 | Using branch main
+1756058700 | Dumping fastapi DB
+1756058700 | DB dump complete
+1756058700 | Creating backup archive
+1756058700 | Archive created
+1756058700 | Generating backup report
+1756058700 | Changes detected, committing...
+1756058700 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-18-05-00 -> backup-20250824-18-05-00
+1756058760 | Backup process started at 20250824 18:06:00
+--------------------------------------------------
+[20250824 18:06:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756058760 | Checking GitHub repo capstone-backup
+1756058760 | Git repo already initialized
+1756058760 | Using branch main
+1756058760 | Dumping fastapi DB
+1756058760 | DB dump complete
+1756058760 | Creating backup archive
+1756058760 | Archive created
+1756058760 | Generating backup report
+1756058760 | Changes detected, committing...
+1756058760 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-18-06-00 -> backup-20250824-18-06-00
+1756058820 | Backup process started at 20250824 18:07:00
+--------------------------------------------------
+[20250824 18:07:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756058820 | Checking GitHub repo capstone-backup
+1756058820 | Git repo already initialized
+1756058820 | Using branch main
+1756058820 | Dumping fastapi DB
+1756058820 | DB dump complete
+1756058820 | Creating backup archive
+1756058820 | Archive created
+1756058820 | Generating backup report
+1756058820 | Changes detected, committing...
+1756058820 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-18-07-00 -> backup-20250824-18-07-00
+1756058880 | Backup process started at 20250824 18:08:00
+--------------------------------------------------
+[20250824 18:08:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756058880 | Checking GitHub repo capstone-backup
+1756058880 | Git repo already initialized
+1756058880 | Using branch main
+1756058880 | Dumping fastapi DB
+1756058880 | DB dump complete
+1756058880 | Creating backup archive
+1756058880 | Archive created
+1756058880 | Generating backup report
+1756058880 | Changes detected, committing...
+1756058880 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-18-08-00 -> backup-20250824-18-08-00
+1756058940 | Backup process started at 20250824 18:09:00
+--------------------------------------------------
+[20250824 18:09:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756058940 | Checking GitHub repo capstone-backup
+1756058940 | Git repo already initialized
+1756058940 | Using branch main
+1756058940 | Dumping fastapi DB
+1756058940 | DB dump complete
+1756058940 | Creating backup archive
+1756058940 | Archive created
+1756058940 | Generating backup report
+1756058940 | Changes detected, committing...
+1756058940 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-18-09-00 -> backup-20250824-18-09-00
+1756059000 | Backup process started at 20250824 18:10:00
+--------------------------------------------------
+[20250824 18:10:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756059000 | Checking GitHub repo capstone-backup
+1756059000 | Git repo already initialized
+1756059000 | Using branch main
+1756059000 | Dumping fastapi DB
+1756059000 | DB dump complete
+1756059000 | Creating backup archive
+1756059000 | Archive created
+1756059000 | Generating backup report
+1756059000 | Changes detected, committing...
+1756059000 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-18-10-00 -> backup-20250824-18-10-00
+1756059060 | Backup process started at 20250824 18:11:00
+--------------------------------------------------
+[20250824 18:11:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756059060 | Checking GitHub repo capstone-backup
+1756059060 | Git repo already initialized
+1756059060 | Using branch main
+1756059060 | Dumping fastapi DB
+1756059060 | DB dump complete
+1756059060 | Creating backup archive
+1756059060 | Archive created
+1756059060 | Generating backup report
+1756059060 | Changes detected, committing...
+1756059060 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-18-11-00 -> backup-20250824-18-11-00
+1756059120 | Backup process started at 20250824 18:12:00
+--------------------------------------------------
+[20250824 18:12:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756059120 | Checking GitHub repo capstone-backup
+1756059120 | Git repo already initialized
+1756059120 | Using branch main
+1756059120 | Dumping fastapi DB
+1756059120 | DB dump complete
+1756059120 | Creating backup archive
+1756059120 | Archive created
+1756059120 | Generating backup report
+1756059120 | Changes detected, committing...
+1756059120 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-18-12-00 -> backup-20250824-18-12-00
+1756059180 | Backup process started at 20250824 18:13:00
+--------------------------------------------------
+[20250824 18:13:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756059180 | Checking GitHub repo capstone-backup
+1756059180 | Git repo already initialized
+1756059180 | Using branch main
+1756059180 | Dumping fastapi DB
+1756059180 | DB dump complete
+1756059180 | Creating backup archive
+1756059180 | Archive created
+1756059180 | Generating backup report
+1756059180 | Changes detected, committing...
+1756059180 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-18-13-00 -> backup-20250824-18-13-00
+1756059240 | Backup process started at 20250824 18:14:00
+--------------------------------------------------
+[20250824 18:14:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756059240 | Checking GitHub repo capstone-backup
+1756059240 | Git repo already initialized
+1756059240 | Using branch main
+1756059240 | Dumping fastapi DB
+1756059240 | DB dump complete
+1756059240 | Creating backup archive
+1756059240 | Archive created
+1756059240 | Generating backup report
+1756059240 | Changes detected, committing...
+1756059240 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-18-14-00 -> backup-20250824-18-14-00
+1756059300 | Backup process started at 20250824 18:15:00
+--------------------------------------------------
+[20250824 18:15:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756059300 | Checking GitHub repo capstone-backup
+1756059300 | Git repo already initialized
+1756059300 | Using branch main
+1756059300 | Dumping fastapi DB
+1756059300 | DB dump complete
+1756059300 | Creating backup archive
+1756059300 | Archive created
+1756059300 | Generating backup report
+1756059300 | Changes detected, committing...
+1756059300 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-18-15-00 -> backup-20250824-18-15-00
+1756059360 | Backup process started at 20250824 18:16:00
+--------------------------------------------------
+[20250824 18:16:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756059360 | Checking GitHub repo capstone-backup
+1756059360 | Git repo already initialized
+1756059360 | Using branch main
+1756059360 | Dumping fastapi DB
+1756059360 | DB dump complete
+1756059360 | Creating backup archive
+1756059360 | Archive created
+1756059360 | Generating backup report
+1756059360 | Changes detected, committing...
+1756059360 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-18-16-00 -> backup-20250824-18-16-00
+1756059420 | Backup process started at 20250824 18:17:00
+--------------------------------------------------
+[20250824 18:17:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756059420 | Checking GitHub repo capstone-backup
+1756059420 | Git repo already initialized
+1756059420 | Using branch main
+1756059420 | Dumping fastapi DB
+1756059420 | DB dump complete
+1756059420 | Creating backup archive
+1756059420 | Archive created
+1756059420 | Generating backup report
+1756059420 | Changes detected, committing...
+1756059420 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-18-17-00 -> backup-20250824-18-17-00
+1756059480 | Backup process started at 20250824 18:18:00
+--------------------------------------------------
+[20250824 18:18:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756059480 | Checking GitHub repo capstone-backup
+1756059480 | Git repo already initialized
+1756059480 | Using branch main
+1756059480 | Dumping fastapi DB
+1756059480 | DB dump complete
+1756059480 | Creating backup archive
+1756059480 | Archive created
+1756059480 | Generating backup report
+1756059480 | Changes detected, committing...
+1756059480 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-18-18-00 -> backup-20250824-18-18-00
+1756059540 | Backup process started at 20250824 18:19:00
+--------------------------------------------------
+[20250824 18:19:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756059540 | Checking GitHub repo capstone-backup
+1756059540 | Git repo already initialized
+1756059540 | Using branch main
+1756059540 | Dumping fastapi DB
+1756059540 | DB dump complete
+1756059540 | Creating backup archive
+1756059540 | Archive created
+1756059540 | Generating backup report
+1756059540 | Changes detected, committing...
+1756059540 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-18-19-00 -> backup-20250824-18-19-00
+1756059600 | Backup process started at 20250824 18:20:00
+--------------------------------------------------
+[20250824 18:20:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756059600 | Checking GitHub repo capstone-backup
+1756059600 | Git repo already initialized
+1756059600 | Using branch main
+1756059600 | Dumping fastapi DB
+1756059600 | DB dump complete
+1756059600 | Creating backup archive
+1756059600 | Archive created
+1756059600 | Generating backup report
+1756059600 | Changes detected, committing...
+1756059600 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-18-20-00 -> backup-20250824-18-20-00
+1756059660 | Backup process started at 20250824 18:21:00
+--------------------------------------------------
+[20250824 18:21:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756059660 | Checking GitHub repo capstone-backup
+1756059660 | Git repo already initialized
+1756059660 | Using branch main
+1756059660 | Dumping fastapi DB
+1756059660 | DB dump complete
+1756059660 | Creating backup archive
+1756059660 | Archive created
+1756059660 | Generating backup report
+1756059660 | Changes detected, committing...
+1756059660 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-18-21-00 -> backup-20250824-18-21-00
+1756059720 | Backup process started at 20250824 18:22:00
+--------------------------------------------------
+[20250824 18:22:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756059720 | Checking GitHub repo capstone-backup
+1756059720 | Git repo already initialized
+1756059720 | Using branch main
+1756059720 | Dumping fastapi DB
+1756059720 | DB dump complete
+1756059720 | Creating backup archive
+1756059720 | Archive created
+1756059720 | Generating backup report
+1756059720 | Changes detected, committing...
+1756059720 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-18-22-00 -> backup-20250824-18-22-00
+1756059780 | Backup process started at 20250824 18:23:00
+--------------------------------------------------
+[20250824 18:23:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756059780 | Checking GitHub repo capstone-backup
+1756059780 | Git repo already initialized
+1756059780 | Using branch main
+1756059780 | Dumping fastapi DB
+1756059780 | DB dump complete
+1756059780 | Creating backup archive
+1756059780 | Archive created
+1756059780 | Generating backup report
+1756059780 | Changes detected, committing...
+1756059780 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-18-23-00 -> backup-20250824-18-23-00
+1756059840 | Backup process started at 20250824 18:24:00
+--------------------------------------------------
+[20250824 18:24:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756059840 | Checking GitHub repo capstone-backup
+1756059840 | Git repo already initialized
+1756059840 | Using branch main
+1756059840 | Dumping fastapi DB
+1756059840 | DB dump complete
+1756059840 | Creating backup archive
+1756059840 | Archive created
+1756059840 | Generating backup report
+1756059840 | Changes detected, committing...
+1756059840 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-18-24-00 -> backup-20250824-18-24-00
+1756059900 | Backup process started at 20250824 18:25:00
+--------------------------------------------------
+[20250824 18:25:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756059900 | Checking GitHub repo capstone-backup
+1756059900 | Git repo already initialized
+1756059900 | Using branch main
+1756059900 | Dumping fastapi DB
+1756059900 | DB dump complete
+1756059900 | Creating backup archive
+1756059900 | Archive created
+1756059900 | Generating backup report
+1756059900 | Changes detected, committing...
+1756059900 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-18-25-00 -> backup-20250824-18-25-00
+1756059960 | Backup process started at 20250824 18:26:00
+--------------------------------------------------
+[20250824 18:26:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756059960 | Checking GitHub repo capstone-backup
+1756059960 | Git repo already initialized
+1756059960 | Using branch main
+1756059960 | Dumping fastapi DB
+1756059960 | DB dump complete
+1756059960 | Creating backup archive
+1756059960 | Archive created
+1756059960 | Generating backup report
+1756059960 | Changes detected, committing...
+1756059960 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-18-26-00 -> backup-20250824-18-26-00
+1756060020 | Backup process started at 20250824 18:27:00
+--------------------------------------------------
+[20250824 18:27:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756060020 | Checking GitHub repo capstone-backup
+1756060020 | Git repo already initialized
+1756060020 | Using branch main
+1756060020 | Dumping fastapi DB
+1756060020 | DB dump complete
+1756060020 | Creating backup archive
+1756060020 | Archive created
+1756060020 | Generating backup report
+1756060020 | Changes detected, committing...
+1756060020 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-18-27-00 -> backup-20250824-18-27-00
+1756060080 | Backup process started at 20250824 18:28:00
+--------------------------------------------------
+[20250824 18:28:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756060080 | Checking GitHub repo capstone-backup
+1756060080 | Git repo already initialized
+1756060080 | Using branch main
+1756060080 | Dumping fastapi DB
+1756060080 | DB dump complete
+1756060080 | Creating backup archive
+1756060080 | Archive created
+1756060080 | Generating backup report
+1756060080 | Changes detected, committing...
+1756060080 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-18-28-00 -> backup-20250824-18-28-00
+1756060140 | Backup process started at 20250824 18:29:00
+--------------------------------------------------
+[20250824 18:29:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756060140 | Checking GitHub repo capstone-backup
+1756060140 | Git repo already initialized
+1756060140 | Using branch main
+1756060140 | Dumping fastapi DB
+1756060140 | DB dump complete
+1756060140 | Creating backup archive
+1756060140 | Archive created
+1756060140 | Generating backup report
+1756060140 | Changes detected, committing...
+1756060140 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-18-29-00 -> backup-20250824-18-29-00
+1756060200 | Backup process started at 20250824 18:30:00
+--------------------------------------------------
+[20250824 18:30:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756060200 | Checking GitHub repo capstone-backup
+1756060200 | Git repo already initialized
+1756060200 | Using branch main
+1756060200 | Dumping fastapi DB
+1756060200 | DB dump complete
+1756060200 | Creating backup archive
+1756060200 | Archive created
+1756060200 | Generating backup report
+1756060200 | Changes detected, committing...
+1756060200 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-18-30-00 -> backup-20250824-18-30-00
+1756060260 | Backup process started at 20250824 18:31:00
+--------------------------------------------------
+[20250824 18:31:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756060260 | Checking GitHub repo capstone-backup
+1756060260 | Git repo already initialized
+1756060260 | Using branch main
+1756060260 | Dumping fastapi DB
+1756060260 | DB dump complete
+1756060260 | Creating backup archive
+1756060260 | Archive created
+1756060260 | Generating backup report
+1756060260 | Changes detected, committing...
+1756060260 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-18-31-00 -> backup-20250824-18-31-00
+1756060320 | Backup process started at 20250824 18:32:00
+--------------------------------------------------
+[20250824 18:32:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756060320 | Checking GitHub repo capstone-backup
+1756060320 | Git repo already initialized
+1756060320 | Using branch main
+1756060320 | Dumping fastapi DB
+1756060320 | DB dump complete
+1756060320 | Creating backup archive
+1756060320 | Archive created
+1756060320 | Generating backup report
+1756060320 | Changes detected, committing...
+1756060320 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-18-32-00 -> backup-20250824-18-32-00
+1756060380 | Backup process started at 20250824 18:33:00
+--------------------------------------------------
+[20250824 18:33:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756060380 | Checking GitHub repo capstone-backup
+1756060380 | Git repo already initialized
+1756060380 | Using branch main
+1756060380 | Dumping fastapi DB
+1756060380 | DB dump complete
+1756060380 | Creating backup archive
+1756060380 | Archive created
+1756060380 | Generating backup report
+1756060380 | Changes detected, committing...
+1756060380 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-18-33-00 -> backup-20250824-18-33-00
+1756060440 | Backup process started at 20250824 18:34:00
+--------------------------------------------------
+[20250824 18:34:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756060440 | Checking GitHub repo capstone-backup
+1756060440 | Git repo already initialized
+1756060440 | Using branch main
+1756060440 | Dumping fastapi DB
+1756060440 | DB dump complete
+1756060440 | Creating backup archive
+1756060440 | Archive created
+1756060440 | Generating backup report
+1756060440 | Changes detected, committing...
+1756060440 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-18-34-00 -> backup-20250824-18-34-00
+1756060500 | Backup process started at 20250824 18:35:00
+--------------------------------------------------
+[20250824 18:35:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756060500 | Checking GitHub repo capstone-backup
+1756060500 | Git repo already initialized
+1756060500 | Using branch main
+1756060500 | Dumping fastapi DB
+1756060500 | DB dump complete
+1756060500 | Creating backup archive
+1756060500 | Archive created
+1756060500 | Generating backup report
+1756060500 | Changes detected, committing...
+1756060500 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-18-35-00 -> backup-20250824-18-35-00
+1756060560 | Backup process started at 20250824 18:36:00
+--------------------------------------------------
+[20250824 18:36:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756060560 | Checking GitHub repo capstone-backup
+1756060560 | Git repo already initialized
+1756060560 | Using branch main
+1756060560 | Dumping fastapi DB
+1756060560 | DB dump complete
+1756060560 | Creating backup archive
+1756060560 | Archive created
+1756060560 | Generating backup report
+1756060560 | Changes detected, committing...
+1756060560 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-18-36-00 -> backup-20250824-18-36-00
+1756060620 | Backup process started at 20250824 18:37:00
+--------------------------------------------------
+[20250824 18:37:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756060620 | Checking GitHub repo capstone-backup
+1756060620 | Git repo already initialized
+1756060620 | Using branch main
+1756060620 | Dumping fastapi DB
+1756060620 | DB dump complete
+1756060620 | Creating backup archive
+1756060620 | Archive created
+1756060620 | Generating backup report
+1756060620 | Changes detected, committing...
+1756060620 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-18-37-00 -> backup-20250824-18-37-00
+1756060680 | Backup process started at 20250824 18:38:00
+--------------------------------------------------
+[20250824 18:38:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756060680 | Checking GitHub repo capstone-backup
+1756060680 | Git repo already initialized
+1756060680 | Using branch main
+1756060680 | Dumping fastapi DB
+1756060680 | DB dump complete
+1756060680 | Creating backup archive
+1756060680 | Archive created
+1756060680 | Generating backup report
+1756060680 | Changes detected, committing...
+1756060680 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-18-38-00 -> backup-20250824-18-38-00
+1756060740 | Backup process started at 20250824 18:39:00
+--------------------------------------------------
+[20250824 18:39:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756060740 | Checking GitHub repo capstone-backup
+1756060740 | Git repo already initialized
+1756060740 | Using branch main
+1756060740 | Dumping fastapi DB
+1756060740 | DB dump complete
+1756060740 | Creating backup archive
+1756060740 | Archive created
+1756060740 | Generating backup report
+1756060740 | Changes detected, committing...
+1756060740 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-18-39-00 -> backup-20250824-18-39-00
+1756060800 | Backup process started at 20250824 18:40:00
+--------------------------------------------------
+[20250824 18:40:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756060800 | Checking GitHub repo capstone-backup
+1756060800 | Git repo already initialized
+1756060800 | Using branch main
+1756060800 | Dumping fastapi DB
+1756060800 | DB dump complete
+1756060800 | Creating backup archive
+1756060800 | Archive created
+1756060800 | Generating backup report
+1756060800 | Changes detected, committing...
+1756060800 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-18-40-00 -> backup-20250824-18-40-00
+1756060860 | Backup process started at 20250824 18:41:00
+--------------------------------------------------
+[20250824 18:41:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756060860 | Checking GitHub repo capstone-backup
+1756060860 | Git repo already initialized
+1756060860 | Using branch main
+1756060860 | Dumping fastapi DB
+1756060860 | DB dump complete
+1756060860 | Creating backup archive
+1756060860 | Archive created
+1756060860 | Generating backup report
+1756060860 | Changes detected, committing...
+1756060860 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-18-41-00 -> backup-20250824-18-41-00
+1756060920 | Backup process started at 20250824 18:42:00
+--------------------------------------------------
+[20250824 18:42:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756060920 | Checking GitHub repo capstone-backup
+1756060920 | Git repo already initialized
+1756060920 | Using branch main
+1756060920 | Dumping fastapi DB
+1756060920 | DB dump complete
+1756060920 | Creating backup archive
+1756060920 | Archive created
+1756060920 | Generating backup report
+1756060920 | Changes detected, committing...
+1756060920 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-18-42-00 -> backup-20250824-18-42-00
+1756060966 | Backup process started at 20250824 18:42:46
+--------------------------------------------------
+[20250824 18:42:46] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756060966 | Checking GitHub repo capstone-backup
+1756060966 | Git repo already initialized
+1756060966 | Using branch main
+1756060966 | Dumping fastapi DB
+1756060966 | DB dump complete
+1756060966 | Creating backup archive
+1756060966 | Archive created
+1756060966 | Generating backup report
+1756060966 | Changes detected, committing...
+1756060966 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-18-42-46 -> backup-20250824-18-42-46
+1756061040 | Backup process started at 20250824 18:44:00
+--------------------------------------------------
+[20250824 18:44:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756061040 | Checking GitHub repo capstone-backup
+1756061040 | Git repo already initialized
+1756061040 | Using branch main
+1756061040 | Dumping fastapi DB
+1756061040 | DB dump complete
+1756061040 | Creating backup archive
+1756061040 | Archive created
+1756061040 | Generating backup report
+1756061040 | Changes detected, committing...
+1756061040 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-18-44-00 -> backup-20250824-18-44-00
+1756061100 | Backup process started at 20250824 18:45:00
+--------------------------------------------------
+[20250824 18:45:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756061100 | Checking GitHub repo capstone-backup
+1756061100 | Git repo already initialized
+1756061100 | Using branch main
+1756061100 | Dumping fastapi DB
+1756061100 | DB dump complete
+1756061100 | Creating backup archive
+1756061100 | Archive created
+1756061100 | Generating backup report
+1756061100 | Changes detected, committing...
+1756061100 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-18-45-00 -> backup-20250824-18-45-00
+1756061160 | Backup process started at 20250824 18:46:00
+--------------------------------------------------
+[20250824 18:46:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756061160 | Checking GitHub repo capstone-backup
+1756061160 | Git repo already initialized
+1756061160 | Using branch main
+1756061160 | Dumping fastapi DB
+1756061160 | DB dump complete
+1756061160 | Creating backup archive
+1756061160 | Archive created
+1756061160 | Generating backup report
+1756061160 | Changes detected, committing...
+1756061160 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-18-46-00 -> backup-20250824-18-46-00
+1756061220 | Backup process started at 20250824 18:47:00
+--------------------------------------------------
+[20250824 18:47:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756061220 | Checking GitHub repo capstone-backup
+1756061220 | Git repo already initialized
+1756061220 | Using branch main
+1756061220 | Dumping fastapi DB
+1756061220 | DB dump complete
+1756061220 | Creating backup archive
+1756061220 | Archive created
+1756061220 | Generating backup report
+1756061220 | Changes detected, committing...
+1756061220 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-18-47-00 -> backup-20250824-18-47-00
+1756061289 | Backup process started at 20250824 18:48:09
+--------------------------------------------------
+[20250824 18:48:09] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756061289 | Checking GitHub repo capstone-backup
+1756061289 | Git repo already initialized
+1756061289 | Using branch main
+1756061289 | Dumping fastapi DB
+1756061289 | DB dump complete
+1756061289 | Creating backup archive
+1756061289 | Archive created
+1756061289 | Generating backup report
+1756061289 | Changes detected, committing...
+1756061289 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-18-48-09 -> backup-20250824-18-48-09
+1756061340 | Backup process started at 20250824 18:49:00
+--------------------------------------------------
+[20250824 18:49:00] Starting Backup
+Target Directory: /dbdata
+Backup Destination: /app/backups/incremental-20250824/backup_dbdata_20250824.tar.gz
+DB Dump File: /app/backups/incremental-20250824/fastapi_db_dump_20250824.sql
+
+1756061340 | Checking GitHub repo capstone-backup
+1756061340 | Git repo already initialized
+1756061340 | Using branch main
+1756061340 | Dumping fastapi DB
+1756061340 | DB dump complete
+1756061340 | Creating backup archive
+1756061340 | Archive created
+1756061340 | Generating backup report
+1756061340 | Changes detected, committing...
+1756061340 | Changes pushed to remote
+To https://github.com/Muteeba4626/capstone-backup.git
+ * [new tag]         backup-20250824-18-49-00 -> backup-20250824-18-49-00
